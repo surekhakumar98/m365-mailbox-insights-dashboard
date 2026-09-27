@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard analyzing Exchange Online mailbox storage, license utilization, and mail-flow health for Microsoft 365 operations — built to surface concrete cost-saving and risk-reduction opportunities for IT administrators.
 
-**Stack:** SQL Server / Oracle SQL · Python (pandas, NumPy, Matplotlib) · Power BI
+**Stack:** Oracle SQL · Python (pandas, NumPy, Matplotlib) · Power BI
 
 ---
 
