@@ -1,0 +1,9 @@
+Add your Power BI screenshots/exports here before pushing to GitHub, e.g.:
+  - executive_dashboard.png   (your one-pager "M365 Mailbox Insights Dashboard")
+  - overview_page.png
+  - storage_utilization_page.png
+  - mail_flow_security_page.png
+  - license_cost_page.png
+
+Also add your .pbix file to the repo root (e.g. M365_Mailbox_Insights_Dashboard.pbix)
+so anyone with Power BI Desktop can open the live, interactive version.

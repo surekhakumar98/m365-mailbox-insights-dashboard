@@ -1,0 +1,15 @@
+KPI,Value
+total_mailboxes,750.0
+active_mailboxes,681.0
+inactive_mailboxes,69.0
+pct_active,90.8
+avg_mailbox_size_gb,14.46
+total_storage_gb,10847.1
+total_quota_gb,56550.0
+pct_quota_used,19.2
+total_sent,408337.0
+total_received,1260812.0
+spam_rate_pct,6.03
+total_failed,16552.0
+monthly_wasted_spend_usd,1283.0
+annual_wasted_spend_usd,15396.0

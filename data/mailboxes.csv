@@ -1,0 +1,751 @@
+MailboxID,DisplayName,EmailAddress,DepartmentID,Country,LicenseSKU,MailboxType,MailboxSizeGB,QuotaGB,ItemCount,CreatedDate,LastLogonDate,DaysSinceLastLogon,IsActive,LitigationHoldEnabled,ArchiveEnabled,PercentQuotaUsed
+MBX00001,Patricia Bell,patricia.bell0@contoso.com,2,India,E3,User,24.14,100,4823,2021-12-30,2025-12-12,224,False,False,False,24.1
+MBX00002,Priya Garcia,priya.garcia1@contoso.com,3,Singapore,Business Basic,User,29.64,50,6854,2024-11-09,2026-07-01,23,True,False,True,59.3
+MBX00003,Mark Brown,mark.brown2@contoso.com,2,United Kingdom,E3,User,6.61,100,1234,2021-07-15,2026-07-24,0,True,False,True,6.6
+MBX00004,Sarah Kelly,sarah.kelly3@contoso.com,5,United Kingdom,E5,User,27.19,100,5006,2023-09-23,2026-06-27,27,True,False,True,27.2
+MBX00005,Sarah Thompson,sarah.thompson4@contoso.com,6,Canada,Exchange Online Plan 1,User,9.71,50,3093,2023-11-06,2026-07-23,1,True,False,False,19.4
+MBX00006,Chen Moore,chen.moore5@contoso.com,2,Germany,E3,User,14.26,100,3551,2023-07-29,2026-04-29,86,True,True,False,14.3
+MBX00007,Patricia Robinson,patricia.robinson6@contoso.com,3,India,Business Standard,User,16.29,50,3742,2021-09-05,2026-07-14,10,True,False,True,32.6
+MBX00008,Margaret Thomas,margaret.thomas7@contoso.com,9,Germany,Business Basic,User,25.76,50,5628,2026-01-14,2026-07-03,21,True,False,True,51.5
+MBX00009,David Garcia,david.garcia8@contoso.com,1,United States,E1,Equipment,20.15,50,6391,2021-12-09,2026-07-05,19,True,False,True,40.3
+MBX00010,Patricia Robinson,patricia.robinson9@contoso.com,5,India,E3,User,9.45,100,2034,2021-10-12,2026-07-19,5,True,False,False,9.4
+MBX00011,Nancy Davis,nancy.davis10@contoso.com,7,United States,E5,User,1.35,100,380,2021-07-20,2026-06-09,45,True,True,False,1.4
+MBX00012,Emma Thompson,emma.thompson11@contoso.com,1,United States,Exchange Online Plan 1,User,17.49,50,3843,2020-08-01,2026-07-08,16,True,False,False,35.0
+MBX00013,Sandra Kelly,sandra.kelly12@contoso.com,1,India,E3,User,13.85,100,2629,2021-10-06,2026-07-11,13,True,False,True,13.8
+MBX00014,Priya Kelly,priya.kelly13@contoso.com,1,India,E1,User,3.99,50,1099,2023-02-28,2026-07-24,0,True,False,False,8.0
+MBX00015,Donald Anderson,donald.anderson14@contoso.com,9,France,E5,User,15.04,100,2710,2023-07-04,2026-07-19,5,True,False,False,15.0
+MBX00016,Wei Patel,wei.patel15@contoso.com,1,United States,E1,User,12.39,50,3402,2023-12-07,2026-07-09,15,True,False,False,24.8
+MBX00017,Daniel Harris,daniel.harris16@contoso.com,2,United States,Business Basic,User,29.46,50,6335,2021-07-08,2026-07-17,7,True,False,False,58.9
+MBX00018,Jennifer Martin,jennifer.martin17@contoso.com,1,Singapore,E3,User,40.59,100,11546,2023-11-28,2026-07-08,16,True,False,False,40.6
+MBX00019,Hiroshi Garcia,hiroshi.garcia18@contoso.com,1,United States,Business Basic,Equipment,23.74,50,6831,2022-12-01,2026-07-20,4,True,False,False,47.5
+MBX00020,Charles Thomas,charles.thomas19@contoso.com,6,United States,Business Standard,User,11.86,50,3337,2025-07-16,2026-07-02,22,True,False,False,23.7
+MBX00021,Daniel Clark,daniel.clark20@contoso.com,2,United States,E5,User,13.22,100,2424,2024-04-28,2025-07-07,382,False,False,True,13.2
+MBX00022,Joseph Cook,joseph.cook21@contoso.com,5,Germany,E5,User,6.42,100,1788,2024-08-09,2026-07-05,19,True,False,False,6.4
+MBX00023,Linda Smith,linda.smith22@contoso.com,6,Australia,Business Basic,User,7.48,50,2383,2023-09-04,2026-06-29,25,True,False,False,15.0
+MBX00024,Olivia Lewis,olivia.lewis23@contoso.com,8,Canada,Business Standard,User,11.35,50,2428,2023-04-22,2026-07-14,10,True,False,False,22.7
+MBX00025,Wei Yamamoto,wei.yamamoto24@contoso.com,1,India,Business Standard,User,10.48,50,2288,2022-02-15,2026-07-20,4,True,True,False,21.0
+MBX00026,Betty Bell,betty.bell25@contoso.com,8,United States,E1,User,3.78,50,1110,2023-09-10,2026-05-02,83,True,False,False,7.6
+MBX00027,Thomas Taylor,thomas.taylor26@contoso.com,6,United Kingdom,E5,User,29.65,100,6002,2025-03-29,2026-07-14,10,True,False,True,29.6
+MBX00028,Fatima Jones,fatima.jones27@contoso.com,1,Germany,E3,User,32.37,100,8820,2023-01-26,2026-07-21,3,True,False,False,32.4
+MBX00029,Nancy Hernandez,nancy.hernandez28@contoso.com,8,United States,Business Standard,User,29.04,50,8296,2025-10-08,2025-09-13,314,False,False,False,58.1
+MBX00030,Sarah Zhang,sarah.zhang29@contoso.com,8,United States,E5,Shared,33.08,100,6126,2021-05-25,2026-06-07,47,True,False,False,33.1
+MBX00031,Charles Singh,charles.singh30@contoso.com,2,United Kingdom,E3,User,48.14,100,12397,2021-10-30,2026-05-18,67,True,False,False,48.1
+MBX00032,Elizabeth Sanchez,elizabeth.sanchez31@contoso.com,9,United States,E1,User,6.52,50,1699,2024-10-30,2026-06-27,27,True,False,True,13.0
+MBX00033,Patricia Jones,patricia.jones32@contoso.com,5,Germany,E3,User,46.84,100,10421,2024-08-14,2026-07-07,17,True,True,True,46.8
+MBX00034,Matthew Jones,matthew.jones33@contoso.com,6,India,Business Basic,User,9.4,50,2845,2025-12-01,2026-07-15,9,True,False,True,18.8
+MBX00035,Anjali Martin,anjali.martin34@contoso.com,10,United States,E3,User,19.32,100,3917,2024-01-24,2026-07-11,13,True,True,False,19.3
+MBX00036,Robert White,robert.white35@contoso.com,3,Germany,E1,User,2.92,50,674,2025-11-10,2026-07-17,7,True,False,False,5.8
+MBX00037,Chen Johnson,chen.johnson36@contoso.com,8,Canada,Business Standard,User,8.47,50,2530,2020-11-30,2026-06-23,31,True,False,False,16.9
+MBX00038,Hiroshi Ramirez,hiroshi.ramirez37@contoso.com,3,India,Business Basic,User,24.2,50,5001,2025-05-01,2026-07-11,13,True,False,True,48.4
+MBX00039,Barbara Perez,barbara.perez38@contoso.com,8,Canada,E1,User,19.96,50,5888,2022-06-10,2026-07-13,11,True,False,False,39.9
+MBX00040,Betty Smith,betty.smith39@contoso.com,6,United Kingdom,E3,Shared,9.26,100,1769,2022-12-06,2026-07-04,20,True,False,False,9.3
+MBX00041,Michael Brown,michael.brown40@contoso.com,2,Canada,Exchange Online Plan 1,User,13.22,50,3285,2024-10-06,2026-07-13,11,True,False,True,26.4
+MBX00042,Priya Jackson,priya.jackson41@contoso.com,4,United States,Business Basic,User,7.76,50,1478,2021-08-15,2026-07-14,10,True,False,True,15.5
+MBX00043,Donald Lewis,donald.lewis42@contoso.com,3,United Kingdom,E5,User,24.15,100,6638,2025-06-21,2026-07-18,6,True,False,False,24.2
+MBX00044,Joseph Yamamoto,joseph.yamamoto43@contoso.com,1,United States,E3,User,30.94,100,8993,2021-03-10,2026-07-22,2,True,False,False,30.9
+MBX00045,Robert Moore,robert.moore44@contoso.com,1,Germany,E3,User,6.55,100,1958,2021-12-29,2026-07-23,1,True,False,True,6.6
+MBX00046,Noah Lopez,noah.lopez45@contoso.com,3,United Kingdom,E1,User,12.25,50,3887,2022-07-29,2026-07-12,12,True,False,True,24.5
+MBX00047,Sarah Bell,sarah.bell46@contoso.com,1,United States,Business Basic,User,3.63,50,994,2021-03-24,2026-06-25,29,True,False,True,7.3
+MBX00048,Anjali Jackson,anjali.jackson47@contoso.com,1,Canada,E1,User,14.72,50,4234,2023-11-07,2026-07-17,7,True,False,True,29.4
+MBX00049,Margaret Gonzalez,margaret.gonzalez48@contoso.com,7,United Kingdom,E1,User,17.95,50,4501,2024-07-08,2026-07-05,19,True,False,True,35.9
+MBX00050,Wei Moore,wei.moore49@contoso.com,7,United States,Business Basic,User,15.59,50,4798,2025-03-21,2026-07-15,9,True,False,False,31.2
+MBX00051,Priya Smith,priya.smith50@contoso.com,7,United States,Exchange Online Plan 1,User,16.99,50,4589,2020-12-25,2026-07-15,9,True,False,False,34.0
+MBX00052,Linda Gonzalez,linda.gonzalez51@contoso.com,3,United Kingdom,Business Basic,User,11.3,50,3431,2023-11-11,2026-07-20,4,True,False,False,22.6
+MBX00053,Joseph Lee,joseph.lee52@contoso.com,9,United Kingdom,E3,User,11.51,100,2451,2021-07-03,2026-06-19,35,True,False,False,11.5
+MBX00054,Charles Murphy,charles.murphy53@contoso.com,6,United Kingdom,E3,User,11.11,100,2772,2024-03-28,2026-07-05,19,True,False,False,11.1
+MBX00055,Karen Robinson,karen.robinson54@contoso.com,1,United States,E3,User,8.27,100,2333,2020-10-24,2026-07-14,10,True,False,True,8.3
+MBX00056,Mary Patel,mary.patel55@contoso.com,1,Canada,E3,User,9.11,100,1898,2021-04-13,2026-03-05,141,False,False,True,9.1
+MBX00057,Nancy Perez,nancy.perez56@contoso.com,7,France,E3,User,17.39,100,3644,2024-05-16,2026-04-29,86,True,False,True,17.4
+MBX00058,Michael Jones,michael.jones57@contoso.com,1,Germany,E3,User,29.67,100,9403,2023-05-23,2026-07-16,8,True,False,False,29.7
+MBX00059,Sandra Thomas,sandra.thomas58@contoso.com,5,India,E5,User,5.58,100,1343,2021-09-13,2026-07-04,20,True,False,False,5.6
+MBX00060,Margaret Cook,margaret.cook59@contoso.com,10,Australia,Business Standard,User,11.47,50,2356,2024-10-28,2025-09-24,303,False,False,False,22.9
+MBX00061,Liam Johnson,liam.johnson60@contoso.com,1,Singapore,Exchange Online Plan 1,User,4.57,50,1034,2025-12-09,2026-07-23,1,True,True,False,9.1
+MBX00062,Sandra Singh,sandra.singh61@contoso.com,1,India,E1,User,8.39,50,1976,2024-06-24,2026-07-10,14,True,True,False,16.8
+MBX00063,Joseph Ramirez,joseph.ramirez62@contoso.com,10,Australia,E3,Shared,9.54,100,2549,2022-10-26,2026-07-13,11,True,False,True,9.5
+MBX00064,Noah Lopez,noah.lopez63@contoso.com,6,France,E1,User,13.99,50,4326,2025-04-26,2026-04-27,88,True,False,False,28.0
+MBX00065,Thomas Patel,thomas.patel64@contoso.com,1,Canada,E3,User,13.71,100,4361,2024-03-26,2026-07-15,9,True,False,False,13.7
+MBX00066,Susan Yamamoto,susan.yamamoto65@contoso.com,9,Germany,E3,User,12.17,100,3300,2021-01-05,2026-06-26,28,True,False,False,12.2
+MBX00067,Liam Johnson,liam.johnson66@contoso.com,9,United States,E1,Shared,16.42,50,4564,2025-08-28,2026-07-06,18,True,False,False,32.8
+MBX00068,Joseph Jones,joseph.jones67@contoso.com,5,United States,Business Basic,Shared,6.07,50,1366,2025-10-16,2026-04-29,86,True,False,False,12.1
+MBX00069,Patricia Clark,patricia.clark68@contoso.com,6,Germany,E3,User,14.07,100,4221,2023-09-27,2026-07-12,12,True,False,True,14.1
+MBX00070,Charles Cook,charles.cook69@contoso.com,2,Germany,Business Standard,User,20.35,50,4283,2025-12-31,2026-06-20,34,True,False,False,40.7
+MBX00071,Wei Smith,wei.smith70@contoso.com,1,United Kingdom,E1,User,6.0,50,1169,2025-12-01,2026-07-17,7,True,False,False,12.0
+MBX00072,Linda Clark,linda.clark71@contoso.com,6,Germany,E1,User,2.36,50,746,2025-01-23,2026-01-27,178,False,False,False,4.7
+MBX00073,Charles Garcia,charles.garcia72@contoso.com,3,Germany,E3,User,24.02,100,7229,2025-07-04,2026-06-24,30,True,False,False,24.0
+MBX00074,Jennifer Clark,jennifer.clark73@contoso.com,6,Australia,E1,User,4.71,50,1048,2021-08-10,2026-07-04,20,True,False,False,9.4
+MBX00075,Margaret Harris,margaret.harris74@contoso.com,8,United States,E3,User,8.06,100,2212,2025-05-24,2026-07-22,2,True,False,False,8.1
+MBX00076,Karen Brown,karen.brown75@contoso.com,1,United States,Exchange Online Plan 1,Shared,19.95,50,4895,2023-03-10,2026-07-13,11,True,False,False,39.9
+MBX00077,Susan Ramirez,susan.ramirez76@contoso.com,6,Canada,E3,Shared,5.74,100,1292,2022-03-10,2025-09-22,305,False,False,False,5.7
+MBX00078,Elizabeth Singh,elizabeth.singh77@contoso.com,2,Australia,E1,Shared,22.94,50,5050,2022-08-17,2026-07-14,10,True,False,False,45.9
+MBX00079,Matthew Zhang,matthew.zhang78@contoso.com,9,Singapore,E5,User,7.13,100,1419,2022-06-21,2026-06-28,26,True,False,True,7.1
+MBX00080,Mark Johnson,mark.johnson79@contoso.com,2,Australia,E3,User,6.42,100,1649,2024-02-06,2026-06-23,31,True,False,False,6.4
+MBX00081,Olivia Martinez,olivia.martinez80@contoso.com,6,Australia,E5,User,4.59,100,1113,2021-03-06,2026-07-08,16,True,False,False,4.6
+MBX00082,Sarah Martinez,sarah.martinez81@contoso.com,5,United Kingdom,E3,User,7.19,100,1809,2025-09-09,2026-06-23,31,True,False,False,7.2
+MBX00083,Michael Jackson,michael.jackson82@contoso.com,4,United Kingdom,Business Standard,User,18.18,50,3820,2025-06-24,2026-06-28,26,True,False,False,36.4
+MBX00084,Hiroshi Garcia,hiroshi.garcia83@contoso.com,6,United States,E1,Equipment,8.06,50,2509,2021-05-11,2026-07-06,18,True,False,False,16.1
+MBX00085,Betty Zhang,betty.zhang84@contoso.com,7,India,E3,User,24.09,100,6489,2025-09-10,2026-06-25,29,True,False,False,24.1
+MBX00086,Donald Patel,donald.patel85@contoso.com,5,France,E5,User,12.53,100,3833,2025-01-05,2026-07-12,12,True,False,True,12.5
+MBX00087,Patricia Khan,patricia.khan86@contoso.com,8,United Kingdom,Business Standard,User,13.34,50,2605,2025-02-11,2026-07-06,18,True,False,False,26.7
+MBX00088,Richard Davis,richard.davis87@contoso.com,10,Germany,E3,User,6.25,100,1669,2025-11-20,2026-01-04,201,False,False,False,6.2
+MBX00089,Priya Smith,priya.smith88@contoso.com,4,United States,E5,User,26.45,100,7906,2025-06-04,2026-07-23,1,True,False,True,26.4
+MBX00090,Hiroshi Murphy,hiroshi.murphy89@contoso.com,5,United States,E1,User,20.46,50,4630,2022-12-01,2026-07-23,1,True,False,False,40.9
+MBX00091,Sarah Lopez,sarah.lopez90@contoso.com,1,United States,E1,User,20.07,50,4160,2022-06-06,2026-05-01,84,True,False,True,40.1
+MBX00092,Fatima Clark,fatima.clark91@contoso.com,8,United States,E1,User,10.82,50,2349,2025-08-11,2026-05-08,77,True,False,False,21.6
+MBX00093,Hiroshi Murphy,hiroshi.murphy92@contoso.com,5,France,Business Basic,User,4.08,50,890,2020-11-18,2026-07-14,10,True,False,True,8.2
+MBX00094,Jessica Johnson,jessica.johnson93@contoso.com,4,United Kingdom,E3,User,13.86,100,3362,2025-07-17,2025-07-08,381,False,False,False,13.9
+MBX00095,Anjali Smith,anjali.smith94@contoso.com,1,Australia,Business Basic,User,17.66,50,3984,2022-04-16,2026-07-07,17,True,False,False,35.3
+MBX00096,Barbara Smith,barbara.smith95@contoso.com,9,India,E1,User,17.78,50,3875,2021-08-31,2026-07-09,15,True,False,False,35.6
+MBX00097,Elizabeth Miller,elizabeth.miller96@contoso.com,4,United States,Business Standard,User,16.18,50,4381,2023-03-16,2026-06-25,29,True,False,True,32.4
+MBX00098,Margaret Williams,margaret.williams97@contoso.com,6,United States,Business Standard,User,15.72,50,2946,2023-05-13,2026-06-16,38,True,False,False,31.4
+MBX00099,Betty Khan,betty.khan98@contoso.com,1,Canada,E1,User,7.1,50,1616,2025-06-20,2026-06-26,28,True,False,False,14.2
+MBX00100,Jennifer Harris,jennifer.harris99@contoso.com,9,United States,E1,User,7.4,50,2046,2024-09-27,2026-07-05,19,True,False,False,14.8
+MBX00101,Hiroshi Cook,hiroshi.cook100@contoso.com,1,France,E1,User,4.63,50,947,2021-05-22,2026-05-11,74,True,False,True,9.3
+MBX00102,Linda Khan,linda.khan101@contoso.com,2,United States,Business Standard,Shared,24.27,50,5119,2024-02-25,2026-07-06,18,True,False,True,48.5
+MBX00103,Fatima Bell,fatima.bell102@contoso.com,8,India,E3,User,39.43,100,8205,2025-11-17,2026-07-08,16,True,False,False,39.4
+MBX00104,James Martinez,james.martinez103@contoso.com,9,Canada,E3,User,63.88,100,11506,2022-01-21,2026-06-30,24,True,False,False,63.9
+MBX00105,Wei Lopez,wei.lopez104@contoso.com,2,United States,E3,Room,14.54,100,3581,2022-04-22,2026-06-28,26,True,False,True,14.5
+MBX00106,Wei Yamamoto,wei.yamamoto105@contoso.com,5,United States,Business Basic,User,15.75,50,2920,2025-09-14,2026-07-22,2,True,False,False,31.5
+MBX00107,Wei Martinez,wei.martinez106@contoso.com,7,Singapore,E3,User,11.15,100,2433,2025-10-15,2026-06-27,27,True,True,True,11.2
+MBX00108,Mark Williams,mark.williams107@contoso.com,9,United States,E3,User,14.38,100,4591,2025-06-05,2025-11-18,248,False,False,False,14.4
+MBX00109,Charles Clark,charles.clark108@contoso.com,4,United Kingdom,Exchange Online Plan 1,User,5.72,50,1765,2025-10-15,2026-06-28,26,True,False,True,11.4
+MBX00110,Donald Khan,donald.khan109@contoso.com,5,United Kingdom,E1,User,10.98,50,2307,2022-09-05,2026-07-03,21,True,False,False,22.0
+MBX00111,Barbara Bell,barbara.bell110@contoso.com,8,United States,Business Standard,User,6.46,50,1443,2025-05-04,2026-06-27,27,True,False,False,12.9
+MBX00112,Wei Kelly,wei.kelly111@contoso.com,7,Canada,E1,User,9.94,50,2434,2022-09-23,2026-07-16,8,True,False,True,19.9
+MBX00113,Matthew Jones,matthew.jones112@contoso.com,8,Canada,E3,User,6.93,100,2066,2025-02-05,2025-12-24,212,False,False,True,6.9
+MBX00114,Charles Kumar,charles.kumar113@contoso.com,5,United Kingdom,Business Standard,User,17.66,50,5163,2020-09-19,2026-07-19,5,True,False,False,35.3
+MBX00115,Daniel Yamamoto,daniel.yamamoto114@contoso.com,1,Australia,E5,User,19.19,100,3793,2022-01-27,2026-07-17,7,True,False,False,19.2
+MBX00116,Matthew Ramirez,matthew.ramirez115@contoso.com,9,United States,E5,User,15.41,100,3042,2024-01-04,2026-07-18,6,True,False,False,15.4
+MBX00117,Mary Khan,mary.khan116@contoso.com,8,United States,E3,User,7.42,100,1768,2023-09-17,2026-07-11,13,True,False,False,7.4
+MBX00118,Jennifer Yamamoto,jennifer.yamamoto117@contoso.com,8,India,E3,User,4.34,100,1309,2025-09-17,2026-07-19,5,True,False,False,4.3
+MBX00119,Elizabeth Moore,elizabeth.moore118@contoso.com,1,Singapore,E3,User,19.33,100,5866,2025-10-07,2025-11-24,242,False,False,False,19.3
+MBX00120,John Johnson,john.johnson119@contoso.com,2,United States,E3,User,12.49,100,2435,2023-02-10,2026-07-09,15,True,False,True,12.5
+MBX00121,Sarah Jackson,sarah.jackson120@contoso.com,8,United States,E3,User,2.25,100,585,2025-12-11,2026-07-01,23,True,False,True,2.2
+MBX00122,Mark Rodriguez,mark.rodriguez121@contoso.com,1,Germany,E3,User,13.78,100,2780,2022-07-22,2026-07-20,4,True,False,False,13.8
+MBX00123,Mark Jones,mark.jones122@contoso.com,9,Canada,E3,User,15.83,100,4369,2023-12-19,2026-07-09,15,True,False,True,15.8
+MBX00124,Charles Jones,charles.jones123@contoso.com,4,United States,E3,User,3.1,100,955,2025-04-20,2026-07-05,19,True,False,False,3.1
+MBX00125,Chen Ramirez,chen.ramirez124@contoso.com,7,United Kingdom,E3,User,17.87,100,4354,2023-02-14,2026-07-03,21,True,False,False,17.9
+MBX00126,Matthew Lee,matthew.lee125@contoso.com,9,India,E1,User,3.59,50,687,2023-01-10,2026-07-21,3,True,False,False,7.2
+MBX00127,Patricia Perez,patricia.perez126@contoso.com,4,United Kingdom,Business Standard,User,6.78,50,1770,2021-12-17,2026-07-02,22,True,False,False,13.6
+MBX00128,Priya Robinson,priya.robinson127@contoso.com,3,United States,E5,User,3.61,100,856,2024-12-24,2026-04-26,89,True,False,False,3.6
+MBX00129,Matthew Perez,matthew.perez128@contoso.com,6,United States,E1,User,6.2,50,1819,2023-01-21,2026-07-17,7,True,False,False,12.4
+MBX00130,Betty Sanchez,betty.sanchez129@contoso.com,6,United Kingdom,E5,Shared,4.38,100,997,2021-06-03,2025-07-02,387,False,False,True,4.4
+MBX00131,Matthew Brown,matthew.brown130@contoso.com,4,Germany,Business Standard,User,24.17,50,7311,2024-08-01,2026-06-29,25,True,False,True,48.3
+MBX00132,Matthew Zhang,matthew.zhang131@contoso.com,6,Australia,E3,User,10.39,100,2268,2021-06-22,2026-07-19,5,True,False,True,10.4
+MBX00133,Patricia Moore,patricia.moore132@contoso.com,9,India,E1,User,8.78,50,1774,2022-02-02,2026-05-29,56,True,False,True,17.6
+MBX00134,Matthew Miller,matthew.miller133@contoso.com,5,India,E1,User,25.68,50,5724,2023-09-15,2026-06-25,29,True,False,False,51.4
+MBX00135,Wei Khan,wei.khan134@contoso.com,2,Singapore,E1,User,24.82,50,4588,2021-03-17,2026-06-26,28,True,False,True,49.6
+MBX00136,Richard Robinson,richard.robinson135@contoso.com,4,United Kingdom,Business Basic,User,9.34,50,2048,2020-09-30,2026-07-15,9,True,False,True,18.7
+MBX00137,Anthony Williams,anthony.williams136@contoso.com,4,United Kingdom,Exchange Online Plan 1,Shared,15.21,50,4143,2024-10-06,2026-07-22,2,True,False,False,30.4
+MBX00138,Mary Davis,mary.davis137@contoso.com,1,France,E1,User,7.89,50,1577,2020-09-04,2026-05-09,76,True,False,False,15.8
+MBX00139,Susan Smith,susan.smith138@contoso.com,1,United States,Business Basic,Shared,11.6,50,2268,2026-01-21,2026-07-01,23,True,False,False,23.2
+MBX00140,Sarah Hernandez,sarah.hernandez139@contoso.com,6,India,E1,User,5.12,50,1016,2025-05-11,2026-06-21,33,True,False,False,10.2
+MBX00141,Emma Brown,emma.brown140@contoso.com,3,Canada,E5,Shared,16.76,100,3198,2025-10-31,2026-07-05,19,True,False,False,16.8
+MBX00142,David Lewis,david.lewis141@contoso.com,9,United States,Business Basic,User,26.34,50,7966,2024-01-17,2026-07-13,11,True,False,True,52.7
+MBX00143,Barbara Lee,barbara.lee142@contoso.com,2,Germany,E3,User,23.38,100,7298,2020-11-29,2026-07-01,23,True,True,False,23.4
+MBX00144,Thomas Cook,thomas.cook143@contoso.com,1,United States,E1,User,12.91,50,2407,2022-10-07,2026-05-02,83,True,True,True,25.8
+MBX00145,Emma Robinson,emma.robinson144@contoso.com,8,United States,E5,User,2.02,100,578,2022-09-04,2026-07-07,17,True,False,False,2.0
+MBX00146,Chen Harris,chen.harris145@contoso.com,9,Germany,Exchange Online Plan 1,User,7.6,50,2152,2025-08-08,2026-05-09,76,True,False,False,15.2
+MBX00147,Mary Lee,mary.lee146@contoso.com,2,United States,E3,User,11.58,100,3700,2023-03-25,2026-06-26,28,True,False,False,11.6
+MBX00148,Elizabeth Williams,elizabeth.williams147@contoso.com,2,Canada,E1,User,3.87,50,885,2023-12-18,2026-07-14,10,True,False,False,7.7
+MBX00149,Fatima Williams,fatima.williams148@contoso.com,2,France,E1,User,3.26,50,717,2023-06-07,2026-07-09,15,True,False,False,6.5
+MBX00150,Robert Harris,robert.harris149@contoso.com,5,Canada,E5,User,31.09,100,7568,2024-08-19,2026-07-06,18,True,False,False,31.1
+MBX00151,Chen Smith,chen.smith150@contoso.com,5,United States,E5,Shared,21.61,100,6481,2024-12-16,2025-08-06,352,False,False,False,21.6
+MBX00152,Barbara Johnson,barbara.johnson151@contoso.com,2,United States,Business Basic,User,17.65,50,4977,2020-10-30,2026-07-10,14,True,False,False,35.3
+MBX00153,Liam Rodriguez,liam.rodriguez152@contoso.com,1,United States,Business Basic,User,19.98,50,4915,2022-12-30,2026-07-13,11,True,False,False,40.0
+MBX00154,Barbara Singh,barbara.singh153@contoso.com,5,United States,Business Standard,User,4.51,50,966,2023-10-21,2026-06-29,25,True,False,True,9.0
+MBX00155,Sarah Jackson,sarah.jackson154@contoso.com,9,France,Business Standard,User,6.03,50,1699,2025-08-30,2026-06-26,28,True,False,False,12.1
+MBX00156,Mark Lewis,mark.lewis155@contoso.com,6,United Kingdom,E3,User,14.57,100,4365,2021-11-15,2026-07-07,17,True,False,True,14.6
+MBX00157,Jennifer Taylor,jennifer.taylor156@contoso.com,5,United States,E5,Room,15.38,100,3629,2023-06-21,2026-06-04,50,True,False,False,15.4
+MBX00158,Matthew Miller,matthew.miller157@contoso.com,1,Australia,E3,User,3.66,100,1001,2023-12-10,2026-07-16,8,True,True,True,3.7
+MBX00159,Daniel Anderson,daniel.anderson158@contoso.com,2,United Kingdom,E3,User,13.86,100,3271,2022-05-26,2026-07-11,13,True,False,False,13.9
+MBX00160,Wei Brown,wei.brown159@contoso.com,3,United States,Exchange Online Plan 1,User,11.74,50,2899,2025-05-06,2026-07-03,21,True,False,True,23.5
+MBX00161,Emma Kumar,emma.kumar160@contoso.com,8,United States,E5,User,22.89,100,5802,2023-02-19,2026-07-04,20,True,False,True,22.9
+MBX00162,Mark Davis,mark.davis161@contoso.com,9,India,Exchange Online Plan 1,User,15.43,50,4453,2021-04-27,2026-06-30,24,True,False,False,30.9
+MBX00163,Thomas Thomas,thomas.thomas162@contoso.com,9,Canada,E3,User,33.38,100,10576,2023-07-08,2026-07-24,0,True,False,True,33.4
+MBX00164,Thomas Cook,thomas.cook163@contoso.com,10,United States,E3,User,9.38,100,2271,2026-01-25,2026-07-11,13,True,False,False,9.4
+MBX00165,Thomas White,thomas.white164@contoso.com,10,France,E3,User,4.79,100,1091,2024-10-20,2026-05-23,62,True,False,False,4.8
+MBX00166,Fatima Jackson,fatima.jackson165@contoso.com,9,Australia,E1,User,32.82,50,7624,2025-10-05,2026-01-10,195,False,False,False,65.6
+MBX00167,Richard Perez,richard.perez166@contoso.com,1,Australia,E3,Shared,15.99,100,3177,2023-04-26,2026-01-09,196,False,False,True,16.0
+MBX00168,Michael Patel,michael.patel167@contoso.com,1,United States,E3,User,11.79,100,2612,2024-01-24,2026-05-11,74,True,True,False,11.8
+MBX00169,Susan Hernandez,susan.hernandez168@contoso.com,3,United States,E1,User,6.22,50,1194,2025-05-04,2026-07-24,0,True,False,False,12.4
+MBX00170,James Sanchez,james.sanchez169@contoso.com,5,Australia,Exchange Online Plan 1,User,9.46,50,2269,2022-04-16,2026-07-19,5,True,False,False,18.9
+MBX00171,John Zhang,john.zhang170@contoso.com,1,United Kingdom,E1,User,9.08,50,1847,2025-02-05,2026-06-29,25,True,False,True,18.2
+MBX00172,Patricia Thompson,patricia.thompson171@contoso.com,8,India,E1,User,4.6,50,1051,2024-03-10,2026-07-01,23,True,False,False,9.2
+MBX00173,Priya Moore,priya.moore172@contoso.com,6,Canada,Business Basic,User,1.39,50,404,2020-08-19,2026-06-25,29,True,False,False,2.8
+MBX00174,Donald Garcia,donald.garcia173@contoso.com,5,United States,E1,User,8.92,50,1912,2025-09-14,2026-07-06,18,True,False,False,17.8
+MBX00175,Margaret Martinez,margaret.martinez174@contoso.com,1,Canada,Business Standard,User,20.32,50,5398,2024-09-15,2025-06-21,398,False,False,True,40.6
+MBX00176,Charles Kelly,charles.kelly175@contoso.com,2,France,Business Basic,User,27.8,50,8511,2024-04-27,2026-06-21,33,True,False,True,55.6
+MBX00177,Donald Perez,donald.perez176@contoso.com,1,India,E1,User,23.48,50,6090,2023-04-09,2026-07-09,15,True,False,True,47.0
+MBX00178,Michael Gonzalez,michael.gonzalez177@contoso.com,8,United Kingdom,E5,User,24.38,100,5049,2024-09-20,2026-07-09,15,True,False,False,24.4
+MBX00179,Liam Taylor,liam.taylor178@contoso.com,6,Australia,E5,User,5.1,100,1164,2020-09-24,2026-07-16,8,True,False,False,5.1
+MBX00180,Daniel White,daniel.white179@contoso.com,7,Germany,Business Basic,User,14.77,50,3879,2026-01-15,2026-06-29,25,True,False,False,29.5
+MBX00181,Olivia Perez,olivia.perez180@contoso.com,3,India,Business Standard,User,17.75,50,4453,2020-11-07,2026-04-28,87,True,False,False,35.5
+MBX00182,Michael Ramirez,michael.ramirez181@contoso.com,4,Canada,Business Basic,User,18.52,50,3718,2023-02-16,2026-04-17,98,False,False,True,37.0
+MBX00183,Karen Hernandez,karen.hernandez182@contoso.com,4,India,E5,User,11.6,100,2813,2025-11-10,2026-07-04,20,True,False,False,11.6
+MBX00184,Margaret Sanchez,margaret.sanchez183@contoso.com,8,United States,E3,User,13.53,100,3464,2025-06-05,2026-07-08,16,True,False,True,13.5
+MBX00185,Karen Moore,karen.moore184@contoso.com,8,United States,E5,Shared,23.03,100,5007,2025-07-02,2026-07-06,18,True,False,True,23.0
+MBX00186,Sarah Kelly,sarah.kelly185@contoso.com,2,United States,Exchange Online Plan 1,User,17.32,50,4602,2024-06-27,2026-07-23,1,True,True,False,34.6
+MBX00187,Michael Miller,michael.miller186@contoso.com,9,Germany,E5,User,19.52,100,3705,2024-03-27,2026-07-15,9,True,False,True,19.5
+MBX00188,Jessica Garcia,jessica.garcia187@contoso.com,1,Germany,E5,User,8.6,100,1953,2022-07-17,2026-07-11,13,True,False,False,8.6
+MBX00189,Elizabeth Jackson,elizabeth.jackson188@contoso.com,9,India,E3,User,18.84,100,5512,2024-05-10,2026-07-13,11,True,False,False,18.8
+MBX00190,Richard Lee,richard.lee189@contoso.com,1,United Kingdom,Business Basic,User,13.4,50,2898,2022-01-29,2026-06-27,27,True,False,False,26.8
+MBX00191,Margaret Ramirez,margaret.ramirez190@contoso.com,2,Canada,Exchange Online Plan 1,User,21.53,50,5699,2024-06-14,2026-06-28,26,True,False,False,43.1
+MBX00192,Betty Taylor,betty.taylor191@contoso.com,8,France,E1,Equipment,7.1,50,1685,2024-08-14,2026-07-03,21,True,False,False,14.2
+MBX00193,Anthony Murphy,anthony.murphy192@contoso.com,1,United States,E3,User,20.39,100,4573,2024-07-21,2026-07-14,10,True,True,True,20.4
+MBX00194,Joseph Jackson,joseph.jackson193@contoso.com,4,India,E3,User,9.56,100,2946,2024-04-04,2026-06-18,36,True,False,False,9.6
+MBX00195,Noah Garcia,noah.garcia194@contoso.com,5,India,E3,User,20.45,100,4663,2021-06-17,2026-07-02,22,True,False,False,20.4
+MBX00196,Patricia Jones,patricia.jones195@contoso.com,2,Germany,E5,User,14.83,100,3160,2024-09-16,2026-06-28,26,True,False,False,14.8
+MBX00197,Susan Bell,susan.bell196@contoso.com,7,United States,E1,Shared,12.71,50,3905,2024-07-25,2026-07-10,14,True,False,True,25.4
+MBX00198,John Garcia,john.garcia197@contoso.com,8,Canada,E3,Shared,9.96,100,2832,2020-10-20,2026-06-30,24,True,False,True,10.0
+MBX00199,Susan Kelly,susan.kelly198@contoso.com,9,Singapore,E5,Shared,11.83,100,3258,2022-06-21,2026-06-27,27,True,False,False,11.8
+MBX00200,Noah Lopez,noah.lopez199@contoso.com,3,India,E5,User,8.93,100,1669,2025-01-08,2026-07-08,16,True,True,False,8.9
+MBX00201,Joseph Brown,joseph.brown200@contoso.com,5,France,E5,User,9.8,100,1944,2021-04-16,2026-07-18,6,True,False,False,9.8
+MBX00202,Liam Gonzalez,liam.gonzalez201@contoso.com,2,Singapore,Business Basic,User,17.0,50,4579,2025-01-22,2026-01-03,202,False,False,False,34.0
+MBX00203,Karen Harris,karen.harris202@contoso.com,2,United Kingdom,E5,User,2.66,100,556,2025-03-06,2026-07-02,22,True,False,True,2.7
+MBX00204,Margaret Moore,margaret.moore203@contoso.com,1,India,Business Basic,User,20.26,50,4286,2023-08-15,2026-07-08,16,True,False,False,40.5
+MBX00205,Charles Patel,charles.patel204@contoso.com,9,Germany,E5,User,20.49,100,5923,2022-04-07,2026-06-19,35,True,False,True,20.5
+MBX00206,William Harris,william.harris205@contoso.com,9,Singapore,E3,User,10.18,100,2239,2025-01-10,2026-07-23,1,True,False,True,10.2
+MBX00207,Priya Taylor,priya.taylor206@contoso.com,8,United States,E5,User,13.78,100,2618,2021-12-03,2026-06-25,29,True,False,False,13.8
+MBX00208,Noah Sanchez,noah.sanchez207@contoso.com,5,United Kingdom,E1,User,5.68,50,1051,2025-03-17,2026-05-01,84,True,False,False,11.4
+MBX00209,William Bell,william.bell208@contoso.com,5,Australia,E3,Room,16.26,100,3935,2021-10-07,2026-07-15,9,True,False,False,16.3
+MBX00210,Wei Taylor,wei.taylor209@contoso.com,5,United States,E3,User,6.29,100,1675,2025-07-17,2026-07-06,18,True,False,False,6.3
+MBX00211,William Miller,william.miller210@contoso.com,5,Canada,Business Standard,User,0.48,50,144,2023-07-07,2026-07-14,10,True,False,False,1.0
+MBX00212,Donald Taylor,donald.taylor211@contoso.com,5,United Kingdom,E5,User,27.11,100,5300,2022-07-19,2026-06-27,27,True,True,False,27.1
+MBX00213,Wei Yamamoto,wei.yamamoto212@contoso.com,1,Singapore,E1,User,5.14,50,1066,2024-08-10,2025-10-29,268,False,True,True,10.3
+MBX00214,Sarah Rodriguez,sarah.rodriguez213@contoso.com,1,Australia,E5,User,11.64,100,2958,2022-09-13,2026-07-14,10,True,False,True,11.6
+MBX00215,Sandra Kelly,sandra.kelly214@contoso.com,9,United Kingdom,E3,User,14.15,100,3268,2022-04-12,2026-07-17,7,True,False,False,14.2
+MBX00216,William White,william.white215@contoso.com,5,Canada,Business Basic,User,16.98,50,4203,2022-06-29,2026-06-29,25,True,False,False,34.0
+MBX00217,Patricia Harris,patricia.harris216@contoso.com,9,United Kingdom,Business Standard,User,12.4,50,3836,2023-11-20,2026-07-07,17,True,False,False,24.8
+MBX00218,Patricia Gonzalez,patricia.gonzalez217@contoso.com,1,India,E5,User,15.03,100,3851,2021-10-24,2026-06-27,27,True,False,True,15.0
+MBX00219,Sarah Murphy,sarah.murphy218@contoso.com,5,India,E5,User,10.01,100,2383,2022-01-16,2026-07-14,10,True,False,False,10.0
+MBX00220,Liam Johnson,liam.johnson219@contoso.com,2,Canada,E3,User,3.17,100,1009,2024-04-10,2026-06-01,53,True,False,False,3.2
+MBX00221,Jennifer Lopez,jennifer.lopez220@contoso.com,2,United States,E3,User,12.06,100,2280,2022-01-12,2026-06-28,26,True,False,False,12.1
+MBX00222,Charles Taylor,charles.taylor221@contoso.com,1,United States,Business Standard,User,18.58,50,5769,2021-01-05,2026-06-05,49,True,False,False,37.2
+MBX00223,Donald Martin,donald.martin222@contoso.com,1,India,Business Basic,User,5.42,50,1356,2021-07-29,2026-06-29,25,True,False,False,10.8
+MBX00224,David Jackson,david.jackson223@contoso.com,9,Germany,E3,User,14.25,100,3569,2022-01-13,2026-07-03,21,True,False,True,14.2
+MBX00225,Donald Garcia,donald.garcia224@contoso.com,3,Germany,E3,User,37.63,100,11630,2021-11-07,2026-07-18,6,True,False,False,37.6
+MBX00226,Richard Martinez,richard.martinez225@contoso.com,6,United States,E1,User,11.49,50,2884,2021-08-22,2026-05-06,79,True,False,False,23.0
+MBX00227,Fatima Brown,fatima.brown226@contoso.com,5,United Kingdom,E1,User,11.93,50,2879,2024-06-23,2026-07-22,2,True,False,True,23.9
+MBX00228,Lisa Thompson,lisa.thompson227@contoso.com,4,Australia,E1,Room,2.92,50,636,2022-02-06,2026-07-13,11,True,False,False,5.8
+MBX00229,Nancy Anderson,nancy.anderson228@contoso.com,5,United States,E3,User,4.88,100,1328,2024-12-21,2026-05-30,55,True,False,False,4.9
+MBX00230,Linda Thompson,linda.thompson229@contoso.com,2,United Kingdom,Exchange Online Plan 1,User,6.35,50,1649,2024-02-05,2026-07-05,19,True,False,False,12.7
+MBX00231,Charles White,charles.white230@contoso.com,10,France,E3,User,18.09,100,3799,2020-12-04,2026-07-08,16,True,False,False,18.1
+MBX00232,Chen Lewis,chen.lewis231@contoso.com,8,United States,E3,User,5.75,100,1606,2024-07-06,2026-07-06,18,True,False,False,5.8
+MBX00233,James Perez,james.perez232@contoso.com,8,India,E1,User,1.98,50,534,2021-06-05,2026-07-10,14,True,False,True,4.0
+MBX00234,Priya Sanchez,priya.sanchez233@contoso.com,5,United States,E3,User,16.03,100,3777,2023-09-29,2026-07-02,22,True,False,False,16.0
+MBX00235,Karen White,karen.white234@contoso.com,1,Australia,Business Standard,User,6.84,50,1235,2024-11-30,2026-07-20,4,True,False,False,13.7
+MBX00236,Donald Clark,donald.clark235@contoso.com,9,India,E3,User,3.04,100,737,2025-07-14,2025-10-24,273,False,False,False,3.0
+MBX00237,Mark Harris,mark.harris236@contoso.com,3,Australia,Business Basic,User,19.59,50,3542,2023-01-20,2026-07-23,1,True,False,False,39.2
+MBX00238,Sarah Gonzalez,sarah.gonzalez237@contoso.com,1,United States,Business Standard,Shared,9.16,50,1744,2023-08-02,2026-07-22,2,True,False,True,18.3
+MBX00239,Richard Martinez,richard.martinez238@contoso.com,3,Germany,E1,User,17.06,50,4099,2023-04-04,2026-03-12,134,False,False,False,34.1
+MBX00240,Betty Patel,betty.patel239@contoso.com,8,Canada,E5,User,2.93,100,561,2025-10-31,2026-07-20,4,True,False,True,2.9
+MBX00241,Jennifer Wilson,jennifer.wilson240@contoso.com,6,United States,Exchange Online Plan 1,Shared,1.22,50,266,2024-08-05,2026-07-01,23,True,False,True,2.4
+MBX00242,Lisa Perez,lisa.perez241@contoso.com,8,United States,E3,User,13.32,100,3619,2026-01-18,2026-07-21,3,True,False,False,13.3
+MBX00243,Patricia Davis,patricia.davis242@contoso.com,8,United States,E1,User,4.72,50,1053,2024-05-27,2026-07-20,4,True,False,False,9.4
+MBX00244,Betty Moore,betty.moore243@contoso.com,2,Singapore,Exchange Online Plan 1,User,13.18,50,4213,2020-12-10,2026-06-27,27,True,True,False,26.4
+MBX00245,Betty Perez,betty.perez244@contoso.com,9,India,Business Standard,User,13.39,50,4127,2025-03-25,2025-09-19,308,False,False,False,26.8
+MBX00246,Patricia Sanchez,patricia.sanchez245@contoso.com,5,India,E3,User,12.2,100,3195,2022-04-11,2026-05-30,55,True,False,True,12.2
+MBX00247,Priya Perez,priya.perez246@contoso.com,6,India,E5,User,24.25,100,7647,2026-01-14,2026-07-14,10,True,False,False,24.2
+MBX00248,Thomas Anderson,thomas.anderson247@contoso.com,1,Germany,E3,User,58.22,100,17554,2022-12-23,2026-07-01,23,True,False,True,58.2
+MBX00249,Wei Bell,wei.bell248@contoso.com,10,Germany,Business Standard,User,15.84,50,3558,2020-12-31,2026-05-01,84,True,False,False,31.7
+MBX00250,Mary Lee,mary.lee249@contoso.com,3,United Kingdom,E3,User,37.6,100,10713,2024-03-11,2026-07-21,3,True,False,False,37.6
+MBX00251,Linda Khan,linda.khan250@contoso.com,1,India,E1,User,9.35,50,1862,2024-12-25,2026-05-14,71,True,False,False,18.7
+MBX00252,Karen Robinson,karen.robinson251@contoso.com,5,United States,E5,User,3.95,100,1089,2022-12-06,2026-07-07,17,True,False,True,4.0
+MBX00253,Linda Thompson,linda.thompson252@contoso.com,1,Australia,Exchange Online Plan 1,Room,7.22,50,1795,2024-07-14,2026-06-29,25,True,False,False,14.4
+MBX00254,Susan Singh,susan.singh253@contoso.com,1,Canada,Business Standard,User,9.78,50,1783,2021-02-28,2026-06-16,38,True,True,False,19.6
+MBX00255,Mark Garcia,mark.garcia254@contoso.com,6,United Kingdom,E3,User,39.62,100,8652,2021-05-25,2026-07-19,5,True,False,False,39.6
+MBX00256,Jennifer Murphy,jennifer.murphy255@contoso.com,4,India,E1,User,12.71,50,3987,2022-06-24,2026-07-13,11,True,False,True,25.4
+MBX00257,Margaret Zhang,margaret.zhang256@contoso.com,9,United States,Exchange Online Plan 1,User,24.84,50,5569,2022-07-21,2026-05-08,77,True,False,True,49.7
+MBX00258,John Lee,john.lee257@contoso.com,3,Singapore,Exchange Online Plan 1,User,8.76,50,1799,2022-10-03,2026-07-16,8,True,False,False,17.5
+MBX00259,Linda Robinson,linda.robinson258@contoso.com,7,France,E3,Room,7.95,100,1639,2022-01-09,2026-07-21,3,True,False,True,8.0
+MBX00260,Lisa Lee,lisa.lee259@contoso.com,5,France,E5,User,2.81,100,694,2023-07-15,2026-06-30,24,True,False,False,2.8
+MBX00261,Wei Hernandez,wei.hernandez260@contoso.com,6,United Kingdom,E3,User,38.82,100,11567,2020-09-24,2026-07-01,23,True,False,False,38.8
+MBX00262,Michael Patel,michael.patel261@contoso.com,6,United States,E3,User,30.3,100,8669,2024-03-02,2026-07-20,4,True,False,True,30.3
+MBX00263,Barbara Martinez,barbara.martinez262@contoso.com,5,United States,E1,User,14.36,50,3463,2026-01-08,2026-07-08,16,True,False,False,28.7
+MBX00264,Olivia Gonzalez,olivia.gonzalez263@contoso.com,9,United States,E1,User,10.22,50,2138,2022-03-23,2026-07-05,19,True,False,False,20.4
+MBX00265,Emma Lee,emma.lee264@contoso.com,3,United States,E3,User,13.06,100,2435,2022-06-04,2026-05-24,61,True,False,True,13.1
+MBX00266,Lisa Yamamoto,lisa.yamamoto265@contoso.com,1,United States,Business Standard,User,3.8,50,930,2020-09-02,2026-06-25,29,True,False,False,7.6
+MBX00267,Sarah Thomas,sarah.thomas266@contoso.com,6,Singapore,E1,User,17.04,50,5010,2023-11-23,2026-07-05,19,True,False,True,34.1
+MBX00268,Susan Martin,susan.martin267@contoso.com,8,United States,E3,User,28.7,100,8097,2023-09-25,2026-07-04,20,True,False,False,28.7
+MBX00269,Anthony Johnson,anthony.johnson268@contoso.com,1,United States,E3,User,29.63,100,7028,2022-12-23,2026-05-08,77,True,False,False,29.6
+MBX00270,Lisa Jones,lisa.jones269@contoso.com,5,Canada,E3,User,2.93,100,771,2023-11-29,2026-07-22,2,True,False,False,2.9
+MBX00271,Barbara Williams,barbara.williams270@contoso.com,9,India,E1,User,24.69,50,5952,2021-10-01,2026-05-19,66,True,False,True,49.4
+MBX00272,James Williams,james.williams271@contoso.com,8,Canada,E5,User,3.83,100,999,2023-09-18,2026-06-27,27,True,False,False,3.8
+MBX00273,Michael Zhang,michael.zhang272@contoso.com,10,India,E3,Shared,1.33,100,335,2021-10-03,2026-07-13,11,True,False,True,1.3
+MBX00274,Noah Yamamoto,noah.yamamoto273@contoso.com,5,Australia,E5,User,25.3,100,6965,2023-09-23,2025-09-23,304,False,False,False,25.3
+MBX00275,Thomas Khan,thomas.khan274@contoso.com,6,India,Business Standard,User,8.22,50,2063,2024-10-30,2026-06-21,33,True,False,True,16.4
+MBX00276,Karen Williams,karen.williams275@contoso.com,3,Germany,E1,User,23.01,50,7171,2020-08-13,2026-07-11,13,True,False,False,46.0
+MBX00277,Charles Brown,charles.brown276@contoso.com,9,India,Business Standard,Shared,21.67,50,5199,2023-03-04,2026-07-02,22,True,False,True,43.3
+MBX00278,Wei Lopez,wei.lopez277@contoso.com,3,United Kingdom,Business Standard,User,19.88,50,3622,2022-03-07,2026-07-05,19,True,False,False,39.8
+MBX00279,Robert Thompson,robert.thompson278@contoso.com,7,United Kingdom,Business Standard,User,12.95,50,2759,2022-10-25,2026-07-21,3,True,False,False,25.9
+MBX00280,Patricia Wilson,patricia.wilson279@contoso.com,4,Germany,E5,User,4.24,100,1060,2024-02-04,2026-04-28,87,True,False,True,4.2
+MBX00281,Barbara Martin,barbara.martin280@contoso.com,5,United States,E5,User,9.8,100,2505,2020-09-19,2026-06-12,42,True,False,False,9.8
+MBX00282,Karen Miller,karen.miller281@contoso.com,7,Canada,E5,User,29.95,100,7707,2024-01-10,2026-07-10,14,True,False,True,30.0
+MBX00283,Mark Robinson,mark.robinson282@contoso.com,5,United States,E5,User,23.4,100,6552,2020-08-08,2026-07-14,10,True,False,False,23.4
+MBX00284,Karen Gonzalez,karen.gonzalez283@contoso.com,9,United States,E1,User,10.19,50,2226,2023-09-13,2026-07-09,15,True,False,True,20.4
+MBX00285,Sarah Williams,sarah.williams284@contoso.com,4,United States,Exchange Online Plan 1,User,10.1,50,2758,2025-12-11,2026-06-30,24,True,False,True,20.2
+MBX00286,Olivia Robinson,olivia.robinson285@contoso.com,6,Australia,E5,User,18.7,100,5209,2025-11-13,2026-07-11,13,True,False,False,18.7
+MBX00287,Michael Murphy,michael.murphy286@contoso.com,3,United Kingdom,Business Basic,User,13.63,50,3238,2020-09-16,2026-07-24,0,True,False,False,27.3
+MBX00288,Matthew Smith,matthew.smith287@contoso.com,4,India,E3,User,10.59,100,2502,2023-03-02,2026-07-22,2,True,False,False,10.6
+MBX00289,Nancy Moore,nancy.moore288@contoso.com,5,Australia,E1,Room,17.66,50,3621,2023-12-08,2026-06-30,24,True,True,False,35.3
+MBX00290,Charles Yamamoto,charles.yamamoto289@contoso.com,1,United States,E3,User,17.26,100,4107,2021-08-09,2026-01-21,184,False,False,True,17.3
+MBX00291,Fatima Lewis,fatima.lewis290@contoso.com,1,Canada,E3,User,7.38,100,2141,2022-09-03,2026-07-01,23,True,False,True,7.4
+MBX00292,William Zhang,william.zhang291@contoso.com,6,United Kingdom,E3,User,15.59,100,4790,2022-06-08,2026-07-21,3,True,False,False,15.6
+MBX00293,Noah Taylor,noah.taylor292@contoso.com,6,United States,E3,User,16.55,100,4354,2022-04-19,2026-07-19,5,True,False,False,16.6
+MBX00294,Susan Anderson,susan.anderson293@contoso.com,6,India,E3,User,12.25,100,2718,2024-12-23,2026-07-13,11,True,False,True,12.2
+MBX00295,Nancy Lewis,nancy.lewis294@contoso.com,1,France,E3,User,6.75,100,1859,2025-08-01,2026-07-18,6,True,False,False,6.8
+MBX00296,Daniel Miller,daniel.miller295@contoso.com,3,United States,E3,User,9.57,100,2714,2022-01-23,2026-07-13,11,True,True,False,9.6
+MBX00297,Hiroshi Martinez,hiroshi.martinez296@contoso.com,2,Germany,Exchange Online Plan 1,User,5.66,50,1282,2025-12-13,2026-07-08,16,True,False,False,11.3
+MBX00298,Sarah Harris,sarah.harris297@contoso.com,8,United States,E1,Shared,15.88,50,4695,2022-02-09,2026-07-16,8,True,False,False,31.8
+MBX00299,Barbara Clark,barbara.clark298@contoso.com,8,Germany,E3,User,2.95,100,561,2025-05-09,2026-06-04,50,True,False,False,3.0
+MBX00300,James Jones,james.jones299@contoso.com,2,India,E3,User,31.95,100,5799,2024-08-16,2026-07-12,12,True,False,False,32.0
+MBX00301,Joseph Lee,joseph.lee300@contoso.com,6,India,E3,User,27.84,100,5490,2022-03-05,2026-07-03,21,True,False,False,27.8
+MBX00302,Hiroshi Anderson,hiroshi.anderson301@contoso.com,1,India,E3,User,16.82,100,3394,2022-08-23,2026-07-06,18,True,False,True,16.8
+MBX00303,James Lee,james.lee302@contoso.com,2,United States,E5,User,22.51,100,6821,2021-10-08,2026-05-31,54,True,False,True,22.5
+MBX00304,Anjali Bell,anjali.bell303@contoso.com,1,India,Exchange Online Plan 1,User,21.53,50,5156,2022-09-15,2026-07-15,9,True,True,True,43.1
+MBX00305,Nancy Brown,nancy.brown304@contoso.com,3,India,E3,User,13.77,100,3008,2025-10-21,2026-06-22,32,True,False,False,13.8
+MBX00306,Jennifer Cook,jennifer.cook305@contoso.com,6,India,E5,User,10.82,100,2597,2021-06-13,2026-07-19,5,True,False,True,10.8
+MBX00307,Richard Moore,richard.moore306@contoso.com,9,United States,E1,User,9.92,50,2333,2024-11-18,2026-06-29,25,True,True,False,19.8
+MBX00308,Matthew Kumar,matthew.kumar307@contoso.com,2,United Kingdom,E3,User,32.71,100,7268,2025-04-27,2026-06-28,26,True,False,False,32.7
+MBX00309,Richard Taylor,richard.taylor308@contoso.com,5,United Kingdom,E3,Shared,6.55,100,1305,2021-03-27,2026-07-24,0,True,False,False,6.6
+MBX00310,John Gonzalez,john.gonzalez309@contoso.com,7,United States,E1,User,6.66,50,1810,2024-12-30,2026-06-25,29,True,False,False,13.3
+MBX00311,Mark Kumar,mark.kumar310@contoso.com,9,United States,E5,User,23.82,100,4743,2023-02-13,2026-07-24,0,True,False,False,23.8
+MBX00312,Mark Ramirez,mark.ramirez311@contoso.com,6,United Kingdom,E5,User,22.37,100,6455,2023-05-25,2026-07-11,13,True,False,True,22.4
+MBX00313,John Garcia,john.garcia312@contoso.com,2,India,Business Basic,User,10.35,50,2155,2021-11-01,2026-07-04,20,True,False,False,20.7
+MBX00314,Barbara Lewis,barbara.lewis313@contoso.com,6,United States,E3,User,18.06,100,5099,2025-10-29,2026-07-15,9,True,True,False,18.1
+MBX00315,Elizabeth Kumar,elizabeth.kumar314@contoso.com,3,Canada,E5,Shared,19.69,100,5764,2025-06-25,2026-07-18,6,True,False,True,19.7
+MBX00316,Mark Thomas,mark.thomas315@contoso.com,9,Germany,E3,Shared,4.05,100,800,2023-10-13,2026-05-20,65,True,False,False,4.0
+MBX00317,Sandra Kelly,sandra.kelly316@contoso.com,4,Canada,E1,User,29.0,50,5572,2023-06-19,2026-07-03,21,True,False,False,58.0
+MBX00318,Sandra Sanchez,sandra.sanchez317@contoso.com,6,Germany,E1,User,19.68,50,6158,2021-09-24,2026-06-05,49,True,False,True,39.4
+MBX00319,Olivia Wilson,olivia.wilson318@contoso.com,1,Germany,E5,User,17.03,100,4169,2022-09-26,2026-07-10,14,True,False,False,17.0
+MBX00320,Priya Smith,priya.smith319@contoso.com,4,India,Exchange Online Plan 1,User,19.79,50,5308,2025-04-02,2026-05-06,79,True,False,False,39.6
+MBX00321,Richard Clark,richard.clark320@contoso.com,9,France,E1,User,15.65,50,2867,2020-09-06,2026-06-12,42,True,False,False,31.3
+MBX00322,John Rodriguez,john.rodriguez321@contoso.com,6,Germany,E5,User,11.74,100,2571,2023-07-16,2026-06-27,27,True,False,True,11.7
+MBX00323,Anthony Kumar,anthony.kumar322@contoso.com,5,Germany,Business Basic,User,13.86,50,3475,2020-10-05,2025-08-21,337,False,False,True,27.7
+MBX00324,Liam Perez,liam.perez323@contoso.com,9,India,Business Standard,User,3.71,50,1128,2020-08-15,2026-07-03,21,True,False,False,7.4
+MBX00325,Emma Jackson,emma.jackson324@contoso.com,8,India,E3,User,41.05,100,8948,2025-10-14,2026-07-08,16,True,False,False,41.0
+MBX00326,Elizabeth Miller,elizabeth.miller325@contoso.com,3,United States,E5,User,11.59,100,3344,2023-04-15,2026-06-15,39,True,True,False,11.6
+MBX00327,Elizabeth Lewis,elizabeth.lewis326@contoso.com,5,Germany,E5,User,40.61,100,11074,2023-09-30,2026-07-20,4,True,False,False,40.6
+MBX00328,Mary Miller,mary.miller327@contoso.com,5,Germany,Business Standard,User,14.03,50,2751,2023-04-30,2026-06-25,29,True,False,True,28.1
+MBX00329,Jennifer Taylor,jennifer.taylor328@contoso.com,6,France,E1,User,7.9,50,1746,2024-05-13,2026-07-13,11,True,False,False,15.8
+MBX00330,Matthew Yamamoto,matthew.yamamoto329@contoso.com,3,Germany,Exchange Online Plan 1,User,28.46,50,6070,2022-12-29,2026-07-12,12,True,False,False,56.9
+MBX00331,Nancy Murphy,nancy.murphy330@contoso.com,2,Germany,E1,User,16.56,50,4006,2023-05-12,2026-07-20,4,True,False,False,33.1
+MBX00332,Joseph Cook,joseph.cook331@contoso.com,9,Singapore,Business Standard,User,49.0,50,13178,2025-01-17,2026-07-16,8,True,False,False,98.0
+MBX00333,Richard Bell,richard.bell332@contoso.com,9,Germany,E1,User,7.74,50,1862,2024-06-25,2026-07-05,19,True,False,False,15.5
+MBX00334,Hiroshi Thompson,hiroshi.thompson333@contoso.com,8,United States,E1,User,29.23,50,6262,2025-04-05,2026-07-12,12,True,False,True,58.5
+MBX00335,Charles Rodriguez,charles.rodriguez334@contoso.com,9,United States,E1,User,30.24,50,8389,2021-06-05,2026-07-07,17,True,False,False,60.5
+MBX00336,Fatima Yamamoto,fatima.yamamoto335@contoso.com,8,United States,E3,User,20.79,100,5443,2022-05-05,2026-07-18,6,True,False,False,20.8
+MBX00337,Noah Khan,noah.khan336@contoso.com,8,United States,E3,User,30.4,100,7682,2023-12-09,2026-07-22,2,True,False,False,30.4
+MBX00338,Richard Cook,richard.cook337@contoso.com,8,United Kingdom,E1,User,11.79,50,3037,2023-11-22,2026-06-28,26,True,True,True,23.6
+MBX00339,David Clark,david.clark338@contoso.com,5,Canada,E3,User,6.53,100,1378,2025-08-20,2026-07-12,12,True,False,False,6.5
+MBX00340,Noah Garcia,noah.garcia339@contoso.com,5,India,E3,User,8.47,100,2331,2024-06-22,2026-05-28,57,True,False,True,8.5
+MBX00341,Betty Lee,betty.lee340@contoso.com,2,United States,Business Basic,User,13.35,50,3127,2020-12-24,2025-10-07,290,False,False,True,26.7
+MBX00342,Barbara Moore,barbara.moore341@contoso.com,6,Germany,Business Standard,User,21.51,50,4966,2025-11-23,2026-07-05,19,True,False,True,43.0
+MBX00343,Anthony Yamamoto,anthony.yamamoto342@contoso.com,3,United States,E5,User,6.91,100,1388,2025-04-07,2026-07-08,16,True,False,False,6.9
+MBX00344,Daniel Thomas,daniel.thomas343@contoso.com,2,France,E1,User,9.92,50,2614,2021-05-31,2026-05-16,69,True,False,False,19.8
+MBX00345,Liam Wilson,liam.wilson344@contoso.com,6,United States,E3,User,7.37,100,1948,2023-03-17,2026-06-24,30,True,True,False,7.4
+MBX00346,William Brown,william.brown345@contoso.com,4,India,Business Standard,User,24.08,50,5481,2025-11-22,2026-06-27,27,True,False,False,48.2
+MBX00347,Emma Yamamoto,emma.yamamoto346@contoso.com,2,United Kingdom,E1,User,40.41,50,12138,2023-05-17,2026-07-19,5,True,False,False,80.8
+MBX00348,Olivia Kumar,olivia.kumar347@contoso.com,8,India,E3,User,5.63,100,1679,2021-12-10,2026-07-05,19,True,False,False,5.6
+MBX00349,Linda Johnson,linda.johnson348@contoso.com,8,United Kingdom,Exchange Online Plan 1,User,18.64,50,3639,2024-03-03,2026-06-25,29,True,False,False,37.3
+MBX00350,Michael Moore,michael.moore349@contoso.com,1,Canada,Exchange Online Plan 1,User,26.08,50,7232,2023-12-20,2026-03-03,143,False,False,False,52.2
+MBX00351,Nancy Martin,nancy.martin350@contoso.com,1,United States,E3,User,11.04,100,2595,2022-08-06,2026-07-24,0,True,False,True,11.0
+MBX00352,Mary Jackson,mary.jackson351@contoso.com,3,France,E5,User,3.9,100,1247,2022-10-10,2026-07-21,3,True,True,True,3.9
+MBX00353,Barbara Murphy,barbara.murphy352@contoso.com,8,Germany,E3,User,28.29,100,5983,2021-02-06,2026-07-04,20,True,False,False,28.3
+MBX00354,Sarah Miller,sarah.miller353@contoso.com,8,Canada,Business Basic,User,3.68,50,806,2024-09-15,2026-06-08,46,True,False,False,7.4
+MBX00355,Noah Gonzalez,noah.gonzalez354@contoso.com,1,Australia,E1,User,33.74,50,8161,2024-07-20,2026-07-21,3,True,True,False,67.5
+MBX00356,Emma Davis,emma.davis355@contoso.com,8,Singapore,E1,User,7.24,50,1575,2025-03-19,2026-06-22,32,True,False,True,14.5
+MBX00357,Michael Martinez,michael.martinez356@contoso.com,1,United States,E5,User,3.17,100,877,2022-05-30,2026-07-10,14,True,False,False,3.2
+MBX00358,Anjali Murphy,anjali.murphy357@contoso.com,4,United States,E3,User,8.97,100,2218,2023-02-18,2026-07-16,8,True,False,False,9.0
+MBX00359,Patricia Kelly,patricia.kelly358@contoso.com,10,United States,E5,User,12.6,100,2657,2024-02-28,2026-07-06,18,True,False,False,12.6
+MBX00360,Sandra Johnson,sandra.johnson359@contoso.com,2,United States,E3,User,14.56,100,3652,2022-03-29,2026-06-28,26,True,False,False,14.6
+MBX00361,Hiroshi Sanchez,hiroshi.sanchez360@contoso.com,1,India,Business Standard,User,19.71,50,6000,2023-12-30,2025-07-29,360,False,False,False,39.4
+MBX00362,Anjali Martinez,anjali.martinez361@contoso.com,4,Singapore,Business Standard,User,15.49,50,4506,2024-12-29,2026-07-23,1,True,False,False,31.0
+MBX00363,David Davis,david.davis362@contoso.com,6,Singapore,E3,Shared,38.33,100,9576,2023-02-05,2026-07-14,10,True,False,False,38.3
+MBX00364,Anjali Lopez,anjali.lopez363@contoso.com,9,Germany,Business Basic,User,12.17,50,2682,2023-09-01,2026-07-15,9,True,False,False,24.3
+MBX00365,John Davis,john.davis364@contoso.com,10,India,E3,User,16.07,100,3297,2023-11-03,2026-07-03,21,True,False,False,16.1
+MBX00366,Daniel Martin,daniel.martin365@contoso.com,1,Australia,E3,User,15.15,100,4590,2023-08-16,2026-07-08,16,True,False,False,15.2
+MBX00367,Charles Cook,charles.cook366@contoso.com,1,France,E1,User,2.81,50,785,2021-01-14,2026-07-24,0,True,False,False,5.6
+MBX00368,Richard White,richard.white367@contoso.com,8,United States,Business Standard,User,4.75,50,1235,2024-11-17,2026-07-14,10,True,False,False,9.5
+MBX00369,James Lewis,james.lewis368@contoso.com,2,Germany,Business Standard,Shared,13.39,50,4058,2024-07-20,2026-07-02,22,True,False,False,26.8
+MBX00370,Priya Martin,priya.martin369@contoso.com,9,Australia,Business Standard,User,17.44,50,3436,2022-12-17,2026-07-10,14,True,False,True,34.9
+MBX00371,Susan Smith,susan.smith370@contoso.com,6,United Kingdom,Business Standard,User,1.79,50,493,2025-10-24,2026-07-08,16,True,False,False,3.6
+MBX00372,Mark Brown,mark.brown371@contoso.com,1,United Kingdom,Exchange Online Plan 1,User,39.45,50,8297,2025-04-07,2026-07-17,7,True,False,False,78.9
+MBX00373,Thomas Hernandez,thomas.hernandez372@contoso.com,8,Singapore,E3,User,18.41,100,3624,2022-12-14,2026-07-15,9,True,False,True,18.4
+MBX00374,Joseph Martinez,joseph.martinez373@contoso.com,1,Singapore,Exchange Online Plan 1,User,12.85,50,3150,2023-04-07,2026-07-21,3,True,False,False,25.7
+MBX00375,Anjali Yamamoto,anjali.yamamoto374@contoso.com,4,France,E5,User,17.83,100,4176,2022-06-23,2026-07-22,2,True,False,True,17.8
+MBX00376,Patricia Yamamoto,patricia.yamamoto375@contoso.com,5,Canada,E3,User,8.57,100,2671,2025-06-12,2026-06-01,53,True,False,False,8.6
+MBX00377,Sandra Zhang,sandra.zhang376@contoso.com,5,United States,E5,User,14.67,100,3305,2021-05-15,2026-05-01,84,True,True,False,14.7
+MBX00378,Sandra Sanchez,sandra.sanchez377@contoso.com,6,United Kingdom,E3,User,16.34,100,4805,2023-05-26,2026-07-20,4,True,False,False,16.3
+MBX00379,Jessica Thompson,jessica.thompson378@contoso.com,6,Germany,E3,User,28.51,100,8120,2025-03-20,2026-07-07,17,True,False,False,28.5
+MBX00380,William Sanchez,william.sanchez379@contoso.com,10,Germany,E3,Shared,11.39,100,3115,2024-05-09,2026-06-26,28,True,False,False,11.4
+MBX00381,James Taylor,james.taylor380@contoso.com,10,Germany,E1,User,3.77,50,1164,2024-10-25,2026-07-04,20,True,False,False,7.5
+MBX00382,Olivia Clark,olivia.clark381@contoso.com,5,India,E3,User,6.38,100,1512,2023-07-31,2026-07-07,17,True,False,False,6.4
+MBX00383,Olivia Patel,olivia.patel382@contoso.com,1,United Kingdom,Business Standard,User,10.72,50,2514,2023-06-27,2026-07-21,3,True,True,True,21.4
+MBX00384,Elizabeth Kumar,elizabeth.kumar383@contoso.com,7,India,E5,User,4.17,100,844,2023-09-07,2026-06-15,39,True,False,True,4.2
+MBX00385,Mary Harris,mary.harris384@contoso.com,9,United Kingdom,E3,User,5.81,100,1270,2023-07-14,2026-06-28,26,True,False,False,5.8
+MBX00386,John Williams,john.williams385@contoso.com,3,United Kingdom,E3,User,6.43,100,1949,2021-01-27,2026-07-13,11,True,False,True,6.4
+MBX00387,Robert Lewis,robert.lewis386@contoso.com,5,United States,E3,User,10.19,100,2510,2020-10-16,2026-06-30,24,True,False,False,10.2
+MBX00388,Hiroshi Anderson,hiroshi.anderson387@contoso.com,4,United States,E3,Shared,18.24,100,4154,2023-05-17,2026-07-03,21,True,False,False,18.2
+MBX00389,Anjali Robinson,anjali.robinson388@contoso.com,1,Australia,Business Standard,User,9.83,50,2066,2020-10-08,2026-07-16,8,True,False,True,19.7
+MBX00390,Michael Perez,michael.perez389@contoso.com,6,United Kingdom,E1,User,19.09,50,4732,2021-07-25,2026-07-20,4,True,False,False,38.2
+MBX00391,Sandra Singh,sandra.singh390@contoso.com,3,United States,Business Basic,User,12.86,50,3605,2021-07-22,2026-07-24,0,True,False,False,25.7
+MBX00392,Linda Wilson,linda.wilson391@contoso.com,8,Canada,Business Basic,User,5.98,50,1316,2024-10-29,2026-06-10,44,True,False,False,12.0
+MBX00393,Joseph Kelly,joseph.kelly392@contoso.com,8,Germany,E5,User,16.53,100,4728,2023-08-28,2026-06-20,34,True,False,False,16.5
+MBX00394,Lisa Yamamoto,lisa.yamamoto393@contoso.com,8,United States,Business Standard,User,14.8,50,3968,2024-02-18,2026-07-05,19,True,False,True,29.6
+MBX00395,Donald Wilson,donald.wilson394@contoso.com,4,United Kingdom,E3,User,19.43,100,5639,2025-07-16,2025-11-04,262,False,False,False,19.4
+MBX00396,Chen Martin,chen.martin395@contoso.com,3,United States,Business Standard,User,22.16,50,4767,2025-08-28,2026-07-10,14,True,False,False,44.3
+MBX00397,Mary Perez,mary.perez396@contoso.com,8,India,Business Basic,User,29.09,50,7806,2022-08-23,2026-05-22,63,True,False,False,58.2
+MBX00398,Linda Kumar,linda.kumar397@contoso.com,8,United States,Business Basic,User,18.66,50,3760,2023-10-03,2026-07-01,23,True,False,False,37.3
+MBX00399,Barbara Ramirez,barbara.ramirez398@contoso.com,5,United States,E5,User,14.46,100,3339,2021-07-11,2026-07-03,21,True,False,True,14.5
+MBX00400,Richard Zhang,richard.zhang399@contoso.com,9,United States,Business Standard,User,19.49,50,5484,2022-05-22,2026-06-28,26,True,False,False,39.0
+MBX00401,Emma Anderson,emma.anderson400@contoso.com,1,India,Exchange Online Plan 1,User,9.1,50,2442,2025-08-07,2026-07-14,10,True,True,False,18.2
+MBX00402,Wei Lee,wei.lee401@contoso.com,9,United States,E3,Shared,8.59,100,1772,2021-06-16,2026-06-30,24,True,False,True,8.6
+MBX00403,Richard Moore,richard.moore402@contoso.com,1,Australia,Business Standard,User,31.67,50,9506,2023-05-04,2026-07-12,12,True,False,False,63.3
+MBX00404,Noah Murphy,noah.murphy403@contoso.com,1,United States,Business Basic,User,8.39,50,1572,2022-12-15,2026-07-19,5,True,False,False,16.8
+MBX00405,Karen Gonzalez,karen.gonzalez404@contoso.com,5,India,E3,User,6.57,100,1730,2020-10-02,2026-07-20,4,True,True,False,6.6
+MBX00406,Daniel White,daniel.white405@contoso.com,1,United Kingdom,Exchange Online Plan 1,User,18.65,50,5925,2022-07-19,2026-07-22,2,True,True,True,37.3
+MBX00407,Sarah Jones,sarah.jones406@contoso.com,1,United Kingdom,E3,User,9.16,100,2330,2025-12-12,2026-02-15,159,False,False,False,9.2
+MBX00408,Jennifer Zhang,jennifer.zhang407@contoso.com,1,United States,E5,User,22.01,100,6428,2025-02-03,2026-07-19,5,True,False,True,22.0
+MBX00409,Olivia Thomas,olivia.thomas408@contoso.com,5,Canada,E1,User,27.72,50,7299,2023-09-22,2025-08-21,337,False,False,False,55.4
+MBX00410,James Wilson,james.wilson409@contoso.com,8,France,E3,Shared,7.34,100,2125,2025-11-12,2026-07-01,23,True,False,False,7.3
+MBX00411,Michael White,michael.white410@contoso.com,1,United States,Business Standard,User,20.18,50,5484,2025-02-23,2026-07-11,13,True,False,True,40.4
+MBX00412,Elizabeth Martin,elizabeth.martin411@contoso.com,6,United States,E3,User,8.24,100,2280,2021-09-17,2026-06-27,27,True,False,True,8.2
+MBX00413,Barbara Yamamoto,barbara.yamamoto412@contoso.com,8,France,E3,User,10.89,100,2307,2025-04-13,2026-06-27,27,True,False,False,10.9
+MBX00414,Jennifer Perez,jennifer.perez413@contoso.com,1,Germany,E3,User,16.01,100,4544,2025-02-24,2026-06-27,27,True,False,True,16.0
+MBX00415,James Lee,james.lee414@contoso.com,1,United States,E3,User,8.6,100,1834,2023-04-17,2026-05-14,71,True,False,False,8.6
+MBX00416,Margaret Jones,margaret.jones415@contoso.com,8,United States,Business Standard,User,15.03,50,4768,2025-07-26,2026-07-16,8,True,False,False,30.1
+MBX00417,Noah Smith,noah.smith416@contoso.com,8,India,Business Standard,User,11.56,50,2449,2024-08-30,2026-07-23,1,True,False,False,23.1
+MBX00418,John Thomas,john.thomas417@contoso.com,5,India,E1,User,22.34,50,4761,2020-11-28,2026-06-29,25,True,False,True,44.7
+MBX00419,Barbara Cook,barbara.cook418@contoso.com,8,India,E5,Shared,22.38,100,6718,2022-08-05,2026-06-28,26,True,False,True,22.4
+MBX00420,Daniel Murphy,daniel.murphy419@contoso.com,1,Singapore,E3,User,8.63,100,1846,2020-10-07,2026-07-08,16,True,True,True,8.6
+MBX00421,Olivia Sanchez,olivia.sanchez420@contoso.com,4,Germany,E5,User,16.26,100,3748,2024-02-13,2025-07-25,364,False,True,False,16.3
+MBX00422,Margaret Sanchez,margaret.sanchez421@contoso.com,7,United Kingdom,E3,User,24.62,100,6894,2022-09-05,2026-06-30,24,True,False,False,24.6
+MBX00423,Priya Thomas,priya.thomas422@contoso.com,2,Germany,E3,User,5.73,100,1158,2024-10-03,2026-07-16,8,True,False,False,5.7
+MBX00424,Lisa Davis,lisa.davis423@contoso.com,8,United Kingdom,E3,User,11.51,100,2328,2023-12-26,2026-07-08,16,True,False,True,11.5
+MBX00425,Thomas Smith,thomas.smith424@contoso.com,5,United States,E5,Room,15.78,100,3914,2025-02-08,2026-07-05,19,True,False,True,15.8
+MBX00426,Linda Wilson,linda.wilson425@contoso.com,8,United States,E3,User,5.53,100,1184,2021-06-26,2026-01-05,200,False,False,True,5.5
+MBX00427,Chen Gonzalez,chen.gonzalez426@contoso.com,5,United Kingdom,E3,User,9.44,100,2010,2025-01-21,2026-05-08,77,True,True,False,9.4
+MBX00428,Fatima Davis,fatima.davis427@contoso.com,3,India,Business Standard,User,35.82,50,6493,2024-12-10,2026-07-22,2,True,True,True,71.6
+MBX00429,Mary Hernandez,mary.hernandez428@contoso.com,2,United States,Business Basic,User,8.37,50,1940,2023-07-08,2025-08-27,331,False,False,True,16.7
+MBX00430,Donald Smith,donald.smith429@contoso.com,2,United Kingdom,E3,Equipment,9.1,100,2043,2023-09-15,2026-06-26,28,True,True,False,9.1
+MBX00431,Patricia Harris,patricia.harris430@contoso.com,8,India,Business Standard,User,18.52,50,3414,2024-05-05,2026-07-12,12,True,False,False,37.0
+MBX00432,Sandra Kelly,sandra.kelly431@contoso.com,1,India,Business Standard,User,4.97,50,1326,2024-02-08,2026-07-12,12,True,True,True,9.9
+MBX00433,Hiroshi Ramirez,hiroshi.ramirez432@contoso.com,1,Canada,E1,User,11.7,50,3132,2024-06-11,2026-07-12,12,True,False,False,23.4
+MBX00434,Jennifer Moore,jennifer.moore433@contoso.com,1,Canada,E5,User,6.62,100,1257,2021-01-17,2026-07-14,10,True,False,True,6.6
+MBX00435,Sarah Taylor,sarah.taylor434@contoso.com,1,India,E3,User,15.01,100,3368,2022-11-16,2026-07-08,16,True,False,True,15.0
+MBX00436,John Gonzalez,john.gonzalez435@contoso.com,8,United States,Business Basic,Shared,0.56,50,169,2021-01-03,2026-07-14,10,True,False,True,1.1
+MBX00437,Matthew Garcia,matthew.garcia436@contoso.com,4,Germany,E3,User,13.6,100,3556,2020-08-21,2025-07-13,376,False,False,False,13.6
+MBX00438,Olivia White,olivia.white437@contoso.com,10,India,E5,Shared,16.08,100,3821,2022-06-27,2025-07-20,369,False,False,False,16.1
+MBX00439,Patricia Thompson,patricia.thompson438@contoso.com,1,United States,E3,User,9.62,100,2357,2021-07-11,2026-07-06,18,True,False,False,9.6
+MBX00440,Jessica Smith,jessica.smith439@contoso.com,6,United States,E3,User,10.08,100,2108,2025-06-17,2026-06-26,28,True,False,False,10.1
+MBX00441,Noah Taylor,noah.taylor440@contoso.com,5,United States,Exchange Online Plan 1,Shared,8.75,50,2569,2020-11-04,2026-07-18,6,True,False,True,17.5
+MBX00442,Richard Lopez,richard.lopez441@contoso.com,4,Germany,E3,User,11.58,100,3566,2023-06-01,2026-07-23,1,True,False,False,11.6
+MBX00443,Jennifer Miller,jennifer.miller442@contoso.com,9,United Kingdom,Business Standard,User,31.93,50,9818,2022-02-21,2026-07-09,15,True,False,False,63.9
+MBX00444,Karen Lewis,karen.lewis443@contoso.com,9,United States,Exchange Online Plan 1,Shared,22.8,50,4818,2024-09-19,2026-07-21,3,True,False,False,45.6
+MBX00445,Daniel Perez,daniel.perez444@contoso.com,9,Canada,Business Standard,User,11.58,50,2588,2025-07-18,2026-07-18,6,True,False,False,23.2
+MBX00446,Mark Sanchez,mark.sanchez445@contoso.com,2,France,E1,Shared,9.44,50,1911,2021-03-14,2026-07-01,23,True,False,False,18.9
+MBX00447,Richard Lewis,richard.lewis446@contoso.com,2,United States,Business Standard,User,21.41,50,4774,2023-08-06,2026-07-12,12,True,False,False,42.8
+MBX00448,Noah Cook,noah.cook447@contoso.com,6,France,E1,Shared,14.35,50,3251,2025-04-22,2026-07-08,16,True,False,True,28.7
+MBX00449,Daniel Khan,daniel.khan448@contoso.com,3,United States,E3,User,5.41,100,1453,2022-06-12,2026-03-31,115,False,False,False,5.4
+MBX00450,Barbara Harris,barbara.harris449@contoso.com,7,France,Business Standard,User,10.62,50,2193,2025-10-08,2026-07-21,3,True,False,False,21.2
+MBX00451,Noah Singh,noah.singh450@contoso.com,5,Singapore,E5,Shared,29.8,100,9199,2023-08-04,2026-07-10,14,True,False,False,29.8
+MBX00452,Liam Martin,liam.martin451@contoso.com,5,United States,E3,User,18.03,100,3505,2022-03-12,2026-07-23,1,True,False,False,18.0
+MBX00453,Karen Cook,karen.cook452@contoso.com,8,Canada,E3,User,9.52,100,1722,2022-02-07,2026-07-10,14,True,True,False,9.5
+MBX00454,James Kumar,james.kumar453@contoso.com,7,Singapore,Business Standard,User,3.53,50,1057,2023-07-29,2026-07-18,6,True,False,False,7.1
+MBX00455,Lisa Clark,lisa.clark454@contoso.com,1,France,Business Basic,User,14.96,50,4166,2024-01-13,2026-06-27,27,True,False,False,29.9
+MBX00456,Matthew Murphy,matthew.murphy455@contoso.com,1,Singapore,E3,Shared,12.91,100,2966,2021-06-15,2026-07-17,7,True,False,False,12.9
+MBX00457,Jennifer Lee,jennifer.lee456@contoso.com,6,Germany,Business Standard,User,11.32,50,2981,2025-01-19,2026-07-18,6,True,False,True,22.6
+MBX00458,Betty Lewis,betty.lewis457@contoso.com,5,United States,E3,User,21.57,100,4557,2025-08-28,2026-07-24,0,True,False,True,21.6
+MBX00459,Hiroshi Lopez,hiroshi.lopez458@contoso.com,2,Australia,E1,User,18.18,50,3700,2025-03-16,2026-07-21,3,True,False,True,36.4
+MBX00460,John Bell,john.bell459@contoso.com,4,India,E5,Shared,3.64,100,895,2021-08-29,2026-07-18,6,True,False,True,3.6
+MBX00461,Donald Harris,donald.harris460@contoso.com,8,India,Exchange Online Plan 1,Room,12.96,50,2973,2023-06-26,2026-07-18,6,True,False,False,25.9
+MBX00462,Jennifer Patel,jennifer.patel461@contoso.com,8,United Kingdom,E3,Room,4.52,100,1202,2025-11-11,2026-07-02,22,True,False,True,4.5
+MBX00463,Sandra Jackson,sandra.jackson462@contoso.com,5,India,E3,User,8.86,100,1865,2025-02-20,2026-06-28,26,True,False,False,8.9
+MBX00464,Thomas Zhang,thomas.zhang463@contoso.com,4,United States,E1,User,4.23,50,1153,2025-11-30,2026-06-29,25,True,False,False,8.5
+MBX00465,James Williams,james.williams464@contoso.com,2,India,Business Standard,User,4.36,50,1252,2021-08-02,2026-06-26,28,True,False,False,8.7
+MBX00466,Noah Jones,noah.jones465@contoso.com,5,United States,E3,User,16.23,100,3300,2023-07-13,2026-06-28,26,True,False,True,16.2
+MBX00467,Michael Lee,michael.lee466@contoso.com,3,India,E3,User,15.15,100,2820,2025-09-11,2026-07-11,13,True,False,False,15.2
+MBX00468,Lisa Robinson,lisa.robinson467@contoso.com,5,Australia,Exchange Online Plan 1,User,12.29,50,2968,2024-11-07,2026-07-13,11,True,False,False,24.6
+MBX00469,Linda Khan,linda.khan468@contoso.com,6,Germany,E1,User,8.28,50,2387,2022-09-04,2026-07-05,19,True,False,False,16.6
+MBX00470,Olivia Moore,olivia.moore469@contoso.com,1,Germany,E5,User,3.95,100,1070,2022-10-20,2026-07-15,9,True,False,True,4.0
+MBX00471,Sandra Sanchez,sandra.sanchez470@contoso.com,1,United Kingdom,E3,User,8.89,100,2473,2021-07-24,2026-05-15,70,True,False,False,8.9
+MBX00472,Fatima Thompson,fatima.thompson471@contoso.com,2,Singapore,Business Standard,User,15.2,50,3593,2025-12-05,2025-08-12,346,False,False,True,30.4
+MBX00473,Sarah Bell,sarah.bell472@contoso.com,9,India,E3,User,14.96,100,3184,2025-09-08,2025-07-22,367,False,False,False,15.0
+MBX00474,Charles Clark,charles.clark473@contoso.com,6,United Kingdom,E3,Shared,29.4,100,7480,2025-11-15,2026-07-01,23,True,False,False,29.4
+MBX00475,Betty Taylor,betty.taylor474@contoso.com,1,United States,E1,User,26.75,50,5580,2023-11-25,2026-06-26,28,True,False,True,53.5
+MBX00476,Wei Bell,wei.bell475@contoso.com,9,United States,Business Basic,Shared,12.64,50,3560,2022-01-25,2026-07-08,16,True,False,False,25.3
+MBX00477,Hiroshi Jones,hiroshi.jones476@contoso.com,5,Germany,Business Basic,User,8.82,50,1830,2022-06-03,2026-07-14,10,True,False,True,17.6
+MBX00478,James Cook,james.cook477@contoso.com,5,France,E1,User,6.76,50,1492,2024-11-29,2026-07-17,7,True,False,False,13.5
+MBX00479,Mark Miller,mark.miller478@contoso.com,9,India,E3,User,3.41,100,855,2022-06-14,2026-07-19,5,True,False,False,3.4
+MBX00480,John Lopez,john.lopez479@contoso.com,1,United States,Business Standard,User,4.96,50,1230,2022-06-16,2026-07-15,9,True,False,False,9.9
+MBX00481,Barbara Khan,barbara.khan480@contoso.com,2,Australia,E1,User,15.21,50,4017,2025-01-06,2026-07-02,22,True,False,True,30.4
+MBX00482,Hiroshi Robinson,hiroshi.robinson481@contoso.com,6,United Kingdom,E3,User,19.02,100,4588,2021-12-10,2026-07-09,15,True,True,True,19.0
+MBX00483,William Bell,william.bell482@contoso.com,2,Australia,E5,User,10.19,100,3145,2023-09-30,2026-07-18,6,True,False,False,10.2
+MBX00484,Wei Robinson,wei.robinson483@contoso.com,6,United States,E3,User,49.4,100,14700,2025-09-28,2025-10-14,283,False,False,False,49.4
+MBX00485,Charles Sanchez,charles.sanchez484@contoso.com,2,India,E3,User,5.0,100,1515,2023-12-02,2026-06-30,24,True,False,True,5.0
+MBX00486,Elizabeth Wilson,elizabeth.wilson485@contoso.com,1,France,E3,User,3.1,100,831,2021-10-31,2026-07-24,0,True,False,False,3.1
+MBX00487,Susan Smith,susan.smith486@contoso.com,2,United States,E1,User,48.87,50,13141,2022-03-28,2026-02-07,167,False,False,True,97.7
+MBX00488,Nancy Jones,nancy.jones487@contoso.com,4,India,E3,User,3.78,100,1002,2024-08-04,2026-06-26,28,True,False,False,3.8
+MBX00489,Priya Lopez,priya.lopez488@contoso.com,1,Singapore,Business Basic,User,10.09,50,2430,2021-11-26,2026-07-02,22,True,False,False,20.2
+MBX00490,Anthony Johnson,anthony.johnson489@contoso.com,1,United States,E5,User,7.22,100,1625,2023-12-05,2026-07-07,17,True,False,True,7.2
+MBX00491,Olivia Lee,olivia.lee490@contoso.com,8,United States,E1,User,15.99,50,4203,2023-07-15,2026-06-27,27,True,False,False,32.0
+MBX00492,Chen Patel,chen.patel491@contoso.com,3,India,Business Standard,User,9.54,50,1751,2025-08-04,2026-07-07,17,True,False,True,19.1
+MBX00493,Priya Bell,priya.bell492@contoso.com,3,United Kingdom,E1,Equipment,19.06,50,3450,2020-07-31,2026-06-09,45,True,False,False,38.1
+MBX00494,Anthony Martin,anthony.martin493@contoso.com,1,United States,Business Basic,Equipment,21.86,50,6541,2021-06-15,2026-07-18,6,True,False,False,43.7
+MBX00495,Barbara Singh,barbara.singh494@contoso.com,3,Germany,E3,User,3.38,100,630,2024-12-30,2026-05-04,81,True,False,False,3.4
+MBX00496,Thomas Cook,thomas.cook495@contoso.com,2,Canada,Business Basic,User,6.58,50,1667,2022-12-25,2025-12-25,211,False,False,False,13.2
+MBX00497,John Zhang,john.zhang496@contoso.com,6,United States,E3,User,20.15,100,5361,2021-10-10,2026-07-16,8,True,False,False,20.2
+MBX00498,Joseph Jackson,joseph.jackson497@contoso.com,2,United Kingdom,E1,User,24.75,50,5141,2023-04-17,2026-07-02,22,True,False,False,49.5
+MBX00499,Olivia Wilson,olivia.wilson498@contoso.com,9,Australia,E3,User,14.08,100,4300,2024-11-28,2026-07-03,21,True,False,False,14.1
+MBX00500,Sarah Cook,sarah.cook499@contoso.com,9,Germany,E1,User,16.8,50,3471,2020-09-27,2026-07-22,2,True,False,True,33.6
+MBX00501,John Martinez,john.martinez500@contoso.com,1,Australia,E3,User,30.6,100,9297,2024-08-03,2026-07-20,4,True,False,False,30.6
+MBX00502,Mark Taylor,mark.taylor501@contoso.com,1,United Kingdom,Business Basic,User,9.63,50,2762,2024-03-24,2026-07-07,17,True,False,True,19.3
+MBX00503,Noah Williams,noah.williams502@contoso.com,1,Singapore,Business Standard,User,13.98,50,2987,2024-01-10,2026-04-26,89,True,False,False,28.0
+MBX00504,Chen Patel,chen.patel503@contoso.com,6,India,E1,User,26.77,50,5383,2021-03-02,2026-07-05,19,True,False,False,53.5
+MBX00505,William Sanchez,william.sanchez504@contoso.com,1,United States,Business Standard,User,27.85,50,6245,2023-04-26,2026-07-13,11,True,False,False,55.7
+MBX00506,Charles Brown,charles.brown505@contoso.com,8,Australia,Business Basic,User,11.65,50,2746,2022-02-09,2026-06-29,25,True,False,False,23.3
+MBX00507,Nancy Rodriguez,nancy.rodriguez506@contoso.com,8,Germany,Business Standard,User,6.75,50,1447,2021-02-09,2026-07-11,13,True,False,False,13.5
+MBX00508,Elizabeth Thompson,elizabeth.thompson507@contoso.com,8,United States,E5,User,11.55,100,3694,2020-12-16,2026-05-25,60,True,False,True,11.6
+MBX00509,William Perez,william.perez508@contoso.com,5,United States,E5,User,12.37,100,2624,2021-05-10,2026-05-04,81,True,False,False,12.4
+MBX00510,Elizabeth Khan,elizabeth.khan509@contoso.com,10,India,E3,Shared,6.56,100,1943,2021-01-27,2026-06-28,26,True,False,False,6.6
+MBX00511,Emma Hernandez,emma.hernandez510@contoso.com,1,United States,E5,User,7.36,100,1488,2020-11-07,2026-07-03,21,True,False,False,7.4
+MBX00512,Sandra Murphy,sandra.murphy511@contoso.com,4,United States,Business Standard,User,27.87,50,8841,2020-08-13,2026-07-11,13,True,False,True,55.7
+MBX00513,Hiroshi Moore,hiroshi.moore512@contoso.com,3,United States,E1,User,17.33,50,3666,2022-07-13,2026-07-18,6,True,False,False,34.7
+MBX00514,Fatima Khan,fatima.khan513@contoso.com,9,United Kingdom,E3,User,10.13,100,2421,2025-05-06,2026-07-22,2,True,False,True,10.1
+MBX00515,Noah Martinez,noah.martinez514@contoso.com,6,United Kingdom,E1,User,5.27,50,1360,2025-06-12,2025-08-10,348,False,False,False,10.5
+MBX00516,John Johnson,john.johnson515@contoso.com,8,Germany,Exchange Online Plan 1,User,7.43,50,1462,2021-09-09,2026-07-21,3,True,False,True,14.9
+MBX00517,Anjali Williams,anjali.williams516@contoso.com,1,United States,E3,User,2.87,100,844,2024-04-30,2025-09-20,307,False,False,True,2.9
+MBX00518,Robert Anderson,robert.anderson517@contoso.com,9,United States,E5,User,14.34,100,3132,2021-08-22,2026-07-19,5,True,False,True,14.3
+MBX00519,Karen Bell,karen.bell518@contoso.com,5,India,Business Standard,User,7.11,50,1826,2020-12-04,2026-07-21,3,True,True,False,14.2
+MBX00520,Lisa Johnson,lisa.johnson519@contoso.com,5,United Kingdom,Exchange Online Plan 1,User,15.13,50,3887,2022-07-10,2026-07-16,8,True,False,False,30.3
+MBX00521,Joseph Anderson,joseph.anderson520@contoso.com,9,India,E1,User,20.02,50,5292,2021-11-11,2026-07-04,20,True,False,False,40.0
+MBX00522,Jennifer Jones,jennifer.jones521@contoso.com,4,United States,Business Basic,User,15.28,50,2869,2024-07-14,2026-07-10,14,True,False,False,30.6
+MBX00523,Linda Kelly,linda.kelly522@contoso.com,4,United States,Business Standard,User,9.23,50,1879,2023-09-05,2026-07-20,4,True,False,False,18.5
+MBX00524,Fatima Ramirez,fatima.ramirez523@contoso.com,6,United States,E1,User,6.29,50,1274,2020-10-04,2026-04-02,113,False,False,True,12.6
+MBX00525,Richard Kumar,richard.kumar524@contoso.com,1,Germany,Business Basic,User,4.64,50,1031,2021-07-29,2026-07-10,14,True,False,True,9.3
+MBX00526,Richard Lewis,richard.lewis525@contoso.com,3,United Kingdom,E3,User,26.16,100,5239,2024-12-11,2026-07-19,5,True,False,False,26.2
+MBX00527,Liam Clark,liam.clark526@contoso.com,2,Canada,E5,User,14.83,100,4583,2020-11-30,2026-07-04,20,True,False,False,14.8
+MBX00528,Jennifer Kumar,jennifer.kumar527@contoso.com,1,United Kingdom,E3,User,9.62,100,2422,2023-04-27,2026-06-25,29,True,False,False,9.6
+MBX00529,Liam Smith,liam.smith528@contoso.com,8,Germany,E3,User,18.3,100,4891,2021-06-04,2026-07-08,16,True,False,True,18.3
+MBX00530,Liam Zhang,liam.zhang529@contoso.com,6,India,E1,User,23.52,50,5410,2023-03-14,2026-07-20,4,True,False,False,47.0
+MBX00531,Lisa Robinson,lisa.robinson530@contoso.com,3,United States,E1,User,7.23,50,1581,2022-09-30,2026-07-15,9,True,False,True,14.5
+MBX00532,Michael Robinson,michael.robinson531@contoso.com,4,Germany,E1,User,14.52,50,3636,2025-03-06,2026-07-07,17,True,False,False,29.0
+MBX00533,Michael Thomas,michael.thomas532@contoso.com,5,United Kingdom,E5,User,14.73,100,3258,2024-03-16,2026-06-18,36,True,False,True,14.7
+MBX00534,Barbara Khan,barbara.khan533@contoso.com,6,United Kingdom,E3,User,29.78,100,6793,2022-02-03,2026-06-27,27,True,False,False,29.8
+MBX00535,Lisa Thomas,lisa.thomas534@contoso.com,9,United States,E3,User,9.52,100,2317,2021-06-07,2026-06-27,27,True,False,False,9.5
+MBX00536,Michael Johnson,michael.johnson535@contoso.com,9,Canada,E5,User,6.11,100,1532,2025-07-31,2026-06-30,24,True,False,False,6.1
+MBX00537,Charles Murphy,charles.murphy536@contoso.com,4,France,E5,User,15.64,100,4970,2025-08-24,2026-05-24,61,True,False,True,15.6
+MBX00538,John Martinez,john.martinez537@contoso.com,3,United States,E3,User,19.31,100,4079,2022-04-03,2026-07-05,19,True,False,False,19.3
+MBX00539,Nancy Jones,nancy.jones538@contoso.com,5,India,Exchange Online Plan 1,User,13.72,50,3406,2023-08-11,2025-07-24,365,False,False,True,27.4
+MBX00540,James Harris,james.harris539@contoso.com,5,Canada,E3,User,31.07,100,6242,2021-05-26,2026-07-03,21,True,False,False,31.1
+MBX00541,Donald Martinez,donald.martinez540@contoso.com,5,United States,Business Standard,User,9.5,50,2175,2025-09-10,2026-07-05,19,True,False,True,19.0
+MBX00542,Robert Zhang,robert.zhang541@contoso.com,6,Canada,E1,User,13.95,50,3911,2024-02-23,2026-07-20,4,True,False,True,27.9
+MBX00543,Linda Moore,linda.moore542@contoso.com,5,India,Business Basic,User,3.63,50,742,2025-11-15,2026-06-28,26,True,True,False,7.3
+MBX00544,Michael Smith,michael.smith543@contoso.com,3,France,Exchange Online Plan 1,User,5.84,50,1526,2022-03-02,2026-07-24,0,True,False,True,11.7
+MBX00545,Hiroshi Bell,hiroshi.bell544@contoso.com,3,Singapore,Business Standard,User,7.27,50,1732,2021-05-07,2026-07-12,12,True,False,True,14.5
+MBX00546,Robert Lee,robert.lee545@contoso.com,4,United States,E5,User,10.69,100,2001,2025-03-16,2026-07-11,13,True,False,False,10.7
+MBX00547,Sarah Hernandez,sarah.hernandez546@contoso.com,1,United Kingdom,E5,User,4.18,100,1298,2024-04-14,2025-06-29,390,False,False,False,4.2
+MBX00548,Lisa Ramirez,lisa.ramirez547@contoso.com,1,Germany,E3,User,18.13,100,4313,2021-05-31,2026-07-22,2,True,False,False,18.1
+MBX00549,Daniel Perez,daniel.perez548@contoso.com,7,United States,E5,User,6.77,100,1961,2025-11-03,2026-07-10,14,True,False,True,6.8
+MBX00550,Margaret Johnson,margaret.johnson549@contoso.com,4,United Kingdom,Business Basic,User,44.01,50,10486,2020-10-30,2026-07-14,10,True,False,False,88.0
+MBX00551,Fatima Kumar,fatima.kumar550@contoso.com,2,Singapore,Exchange Online Plan 1,User,6.96,50,2166,2021-03-10,2026-07-22,2,True,False,False,13.9
+MBX00552,Jessica Taylor,jessica.taylor551@contoso.com,5,United States,E3,User,12.97,100,2862,2025-03-25,2026-07-18,6,True,False,True,13.0
+MBX00553,Hiroshi Ramirez,hiroshi.ramirez552@contoso.com,8,Germany,E1,User,11.86,50,2819,2025-04-21,2026-07-12,12,True,False,False,23.7
+MBX00554,Richard Singh,richard.singh553@contoso.com,2,Australia,E5,User,5.44,100,1557,2022-04-06,2026-06-27,27,True,False,True,5.4
+MBX00555,Emma Harris,emma.harris554@contoso.com,8,United Kingdom,E1,User,10.72,50,2445,2026-01-05,2026-07-13,11,True,False,False,21.4
+MBX00556,Daniel Clark,daniel.clark555@contoso.com,9,Germany,E3,User,10.63,100,2455,2023-04-15,2026-06-28,26,True,False,False,10.6
+MBX00557,Sandra Hernandez,sandra.hernandez556@contoso.com,6,Singapore,E3,User,21.87,100,6982,2025-09-15,2026-07-02,22,True,False,False,21.9
+MBX00558,Anjali Martinez,anjali.martinez557@contoso.com,6,Germany,Business Basic,Shared,16.03,50,4132,2023-02-22,2026-05-22,63,True,False,False,32.1
+MBX00559,Wei Taylor,wei.taylor558@contoso.com,1,United States,E1,Shared,17.96,50,4966,2024-02-22,2026-06-29,25,True,False,True,35.9
+MBX00560,Chen Zhang,chen.zhang559@contoso.com,9,United States,E1,User,21.56,50,5823,2022-03-07,2026-07-03,21,True,False,True,43.1
+MBX00561,Nancy Lee,nancy.lee560@contoso.com,4,France,E1,User,18.15,50,5370,2021-03-22,2025-10-13,284,False,False,False,36.3
+MBX00562,Mary Wilson,mary.wilson561@contoso.com,9,United States,Business Standard,User,14.44,50,4341,2023-05-19,2026-07-20,4,True,False,False,28.9
+MBX00563,Karen Patel,karen.patel562@contoso.com,6,Germany,E5,Equipment,7.21,100,1866,2022-07-16,2026-07-03,21,True,False,False,7.2
+MBX00564,Linda Zhang,linda.zhang563@contoso.com,1,United States,E1,User,13.82,50,3057,2022-10-07,2026-05-28,57,True,False,True,27.6
+MBX00565,Anjali Murphy,anjali.murphy564@contoso.com,1,United Kingdom,E1,User,6.19,50,1133,2020-08-25,2026-07-02,22,True,False,False,12.4
+MBX00566,Elizabeth Lopez,elizabeth.lopez565@contoso.com,6,France,E5,User,11.32,100,3011,2024-10-18,2026-05-17,68,True,False,False,11.3
+MBX00567,Elizabeth Lewis,elizabeth.lewis566@contoso.com,5,Germany,E3,User,10.29,100,3041,2024-10-02,2026-07-02,22,True,False,True,10.3
+MBX00568,Elizabeth White,elizabeth.white567@contoso.com,1,Singapore,E5,User,10.76,100,2615,2023-12-27,2025-10-14,283,False,False,False,10.8
+MBX00569,Betty Moore,betty.moore568@contoso.com,8,United States,E3,User,4.22,100,856,2022-01-06,2025-08-28,330,False,False,False,4.2
+MBX00570,Matthew Thomas,matthew.thomas569@contoso.com,8,Germany,Exchange Online Plan 1,User,0.58,50,127,2021-04-22,2026-07-13,11,True,False,False,1.2
+MBX00571,Olivia Jones,olivia.jones570@contoso.com,5,Australia,E3,User,8.95,100,2250,2024-07-16,2026-05-30,55,True,False,False,9.0
+MBX00572,Thomas Hernandez,thomas.hernandez571@contoso.com,5,United Kingdom,E5,User,24.87,100,7389,2025-06-19,2026-07-10,14,True,False,False,24.9
+MBX00573,Barbara Perez,barbara.perez572@contoso.com,1,United States,E1,User,12.84,50,2619,2022-09-20,2026-07-14,10,True,False,False,25.7
+MBX00574,Mary Singh,mary.singh573@contoso.com,8,Australia,Exchange Online Plan 1,User,23.72,50,6302,2022-10-12,2026-07-10,14,True,False,False,47.4
+MBX00575,James Zhang,james.zhang574@contoso.com,3,United Kingdom,Exchange Online Plan 1,User,6.22,50,1775,2024-01-03,2026-07-08,16,True,False,False,12.4
+MBX00576,Joseph Davis,joseph.davis575@contoso.com,9,Germany,Business Basic,User,8.62,50,2681,2025-01-20,2026-07-17,7,True,False,True,17.2
+MBX00577,Olivia Ramirez,olivia.ramirez576@contoso.com,4,Singapore,E3,User,45.66,100,8964,2021-05-23,2026-07-05,19,True,True,True,45.7
+MBX00578,Daniel Brown,daniel.brown577@contoso.com,5,United States,E3,User,6.53,100,2022,2021-05-30,2026-07-15,9,True,False,False,6.5
+MBX00579,Anjali Ramirez,anjali.ramirez578@contoso.com,2,United Kingdom,Business Standard,User,17.72,50,4681,2021-12-15,2026-07-16,8,True,False,True,35.4
+MBX00580,John Wilson,john.wilson579@contoso.com,1,United States,Business Basic,User,17.71,50,5088,2022-11-19,2026-02-04,170,False,False,True,35.4
+MBX00581,Patricia Moore,patricia.moore580@contoso.com,8,United Kingdom,E3,User,16.43,100,3081,2024-08-18,2026-07-21,3,True,False,False,16.4
+MBX00582,Hiroshi Lewis,hiroshi.lewis581@contoso.com,5,United States,E3,User,17.87,100,4482,2023-11-07,2026-05-07,78,True,False,False,17.9
+MBX00583,John Taylor,john.taylor582@contoso.com,5,India,E3,User,6.45,100,1723,2025-09-10,2026-05-21,64,True,False,True,6.4
+MBX00584,Robert Khan,robert.khan583@contoso.com,9,United States,Business Standard,User,9.27,50,2066,2024-09-10,2026-06-26,28,True,False,False,18.5
+MBX00585,Thomas Perez,thomas.perez584@contoso.com,9,India,E5,User,0.84,100,201,2023-08-04,2026-07-16,8,True,True,False,0.8
+MBX00586,Liam Cook,liam.cook585@contoso.com,8,United States,E5,User,30.41,100,7833,2023-08-31,2026-04-27,88,True,False,False,30.4
+MBX00587,Margaret Sanchez,margaret.sanchez586@contoso.com,2,United Kingdom,E5,User,17.8,100,4580,2025-08-17,2026-07-09,15,True,True,False,17.8
+MBX00588,Patricia Lopez,patricia.lopez587@contoso.com,6,United Kingdom,E3,User,7.27,100,1351,2020-10-19,2026-07-03,21,True,False,False,7.3
+MBX00589,Hiroshi Patel,hiroshi.patel588@contoso.com,9,India,E3,User,6.28,100,1516,2024-08-04,2025-09-29,298,False,False,True,6.3
+MBX00590,Hiroshi Taylor,hiroshi.taylor589@contoso.com,4,Germany,E1,User,25.15,50,5279,2023-04-08,2026-06-30,24,True,False,False,50.3
+MBX00591,Fatima Perez,fatima.perez590@contoso.com,1,United Kingdom,Business Basic,User,6.88,50,2121,2023-07-05,2026-06-29,25,True,False,False,13.8
+MBX00592,Liam Garcia,liam.garcia591@contoso.com,8,Australia,E3,User,7.26,100,2299,2023-06-27,2026-05-14,71,True,False,False,7.3
+MBX00593,Elizabeth Jones,elizabeth.jones592@contoso.com,5,India,E3,User,5.24,100,1163,2021-06-02,2026-07-14,10,True,False,False,5.2
+MBX00594,Emma Thompson,emma.thompson593@contoso.com,5,United States,E3,User,20.05,100,4100,2021-12-17,2026-05-19,66,True,False,False,20.0
+MBX00595,Richard Davis,richard.davis594@contoso.com,10,France,E3,User,23.5,100,4952,2021-04-18,2026-07-08,16,True,False,True,23.5
+MBX00596,Fatima Cook,fatima.cook595@contoso.com,6,United Kingdom,E5,Shared,10.33,100,2550,2023-12-26,2026-07-10,14,True,True,True,10.3
+MBX00597,Lisa Zhang,lisa.zhang596@contoso.com,4,United States,E3,User,23.59,100,7134,2024-08-11,2026-07-19,5,True,False,False,23.6
+MBX00598,Wei Lewis,wei.lewis597@contoso.com,3,Germany,E1,User,15.51,50,3877,2023-09-19,2026-07-07,17,True,False,True,31.0
+MBX00599,Betty Robinson,betty.robinson598@contoso.com,4,United States,Business Basic,User,4.98,50,935,2022-12-24,2025-09-03,324,False,True,False,10.0
+MBX00600,Betty White,betty.white599@contoso.com,1,United States,E3,User,29.02,100,5385,2024-03-19,2026-07-23,1,True,False,False,29.0
+MBX00601,Anthony Williams,anthony.williams600@contoso.com,8,India,E3,User,5.2,100,1101,2023-07-16,2026-07-07,17,True,False,False,5.2
+MBX00602,Wei Thomas,wei.thomas601@contoso.com,8,United States,E3,User,10.88,100,3242,2025-03-28,2026-06-27,27,True,True,True,10.9
+MBX00603,Sandra Martin,sandra.martin602@contoso.com,3,Canada,Business Standard,Room,10.35,50,2763,2022-11-09,2026-02-13,161,False,False,False,20.7
+MBX00604,Jennifer Murphy,jennifer.murphy603@contoso.com,3,France,E3,User,9.06,100,2344,2022-02-21,2026-06-26,28,True,False,True,9.1
+MBX00605,Hiroshi Rodriguez,hiroshi.rodriguez604@contoso.com,9,India,Business Basic,User,2.03,50,456,2023-03-03,2026-07-14,10,True,False,False,4.1
+MBX00606,Nancy Martin,nancy.martin605@contoso.com,1,India,Exchange Online Plan 1,User,39.86,50,12361,2021-04-07,2026-07-24,0,True,False,True,79.7
+MBX00607,Richard Wilson,richard.wilson606@contoso.com,5,India,E5,User,2.33,100,527,2020-08-03,2026-07-04,20,True,False,False,2.3
+MBX00608,Daniel Garcia,daniel.garcia607@contoso.com,5,Singapore,E3,User,30.18,100,8960,2021-01-31,2025-08-04,354,False,False,False,30.2
+MBX00609,Noah Jones,noah.jones608@contoso.com,7,United Kingdom,Business Basic,User,6.1,50,1863,2025-07-23,2026-03-06,140,False,False,False,12.2
+MBX00610,Chen Anderson,chen.anderson609@contoso.com,1,United States,E3,User,7.81,100,1934,2021-03-22,2026-07-19,5,True,False,False,7.8
+MBX00611,Hiroshi Brown,hiroshi.brown610@contoso.com,6,Germany,E3,User,28.32,100,8643,2024-03-26,2026-06-26,28,True,False,True,28.3
+MBX00612,Charles Williams,charles.williams611@contoso.com,4,Germany,E3,User,16.65,100,3642,2023-08-01,2026-07-01,23,True,False,False,16.6
+MBX00613,Wei Anderson,wei.anderson612@contoso.com,6,United States,E3,User,3.75,100,1020,2023-10-20,2026-07-16,8,True,False,False,3.8
+MBX00614,Jessica Rodriguez,jessica.rodriguez613@contoso.com,1,India,E1,User,3.68,50,707,2024-07-04,2026-07-07,17,True,False,False,7.4
+MBX00615,Margaret Thompson,margaret.thompson614@contoso.com,5,United States,E3,User,15.04,100,3705,2021-03-29,2026-07-14,10,True,False,True,15.0
+MBX00616,Betty Smith,betty.smith615@contoso.com,5,France,E1,User,5.12,50,1077,2022-07-23,2026-07-19,5,True,False,False,10.2
+MBX00617,Elizabeth Gonzalez,elizabeth.gonzalez616@contoso.com,2,United States,E3,User,17.18,100,3243,2020-09-30,2026-06-17,37,True,False,False,17.2
+MBX00618,William Jackson,william.jackson617@contoso.com,1,United States,E5,Shared,18.36,100,3314,2020-10-25,2026-06-30,24,True,False,False,18.4
+MBX00619,Robert Bell,robert.bell618@contoso.com,2,United States,Exchange Online Plan 1,User,6.64,50,1497,2023-10-05,2026-07-14,10,True,False,False,13.3
+MBX00620,Jennifer Sanchez,jennifer.sanchez619@contoso.com,3,United States,E1,User,8.14,50,2137,2022-01-25,2026-07-14,10,True,False,True,16.3
+MBX00621,Sarah Singh,sarah.singh620@contoso.com,1,United States,E5,User,15.38,100,3748,2023-04-22,2026-06-30,24,True,False,False,15.4
+MBX00622,Karen Wilson,karen.wilson621@contoso.com,9,United States,E3,User,6.41,100,1424,2023-05-07,2026-07-11,13,True,False,False,6.4
+MBX00623,Michael Moore,michael.moore622@contoso.com,4,United States,E1,Room,12.85,50,4096,2021-12-31,2026-07-13,11,True,False,False,25.7
+MBX00624,Thomas Taylor,thomas.taylor623@contoso.com,8,United States,E3,User,47.38,100,14760,2022-04-12,2026-07-13,11,True,False,False,47.4
+MBX00625,Anthony Singh,anthony.singh624@contoso.com,9,United Kingdom,E1,User,15.88,50,3137,2021-01-19,2026-07-11,13,True,False,True,31.8
+MBX00626,Elizabeth Bell,elizabeth.bell625@contoso.com,1,United Kingdom,E3,User,9.15,100,2178,2021-10-26,2026-05-23,62,True,False,False,9.2
+MBX00627,Susan Bell,susan.bell626@contoso.com,6,United Kingdom,E3,User,42.41,100,11486,2022-08-24,2025-08-19,339,False,False,True,42.4
+MBX00628,Joseph Kumar,joseph.kumar627@contoso.com,9,United Kingdom,E3,User,20.99,100,5933,2021-01-04,2026-07-10,14,True,False,False,21.0
+MBX00629,Daniel Lee,daniel.lee628@contoso.com,6,United States,E3,User,5.23,100,1209,2025-07-04,2026-07-11,13,True,False,False,5.2
+MBX00630,Joseph Perez,joseph.perez629@contoso.com,4,United States,E1,User,6.08,50,1729,2021-11-13,2026-07-16,8,True,False,False,12.2
+MBX00631,Sandra Cook,sandra.cook630@contoso.com,5,United States,E1,User,2.62,50,517,2023-11-29,2026-07-14,10,True,False,False,5.2
+MBX00632,Susan Lopez,susan.lopez631@contoso.com,1,Canada,E1,User,15.19,50,3439,2023-09-08,2025-07-05,384,False,False,False,30.4
+MBX00633,Sarah Wilson,sarah.wilson632@contoso.com,5,Singapore,E3,User,1.65,100,462,2021-10-07,2025-12-11,225,False,False,True,1.6
+MBX00634,Jessica Singh,jessica.singh633@contoso.com,10,France,E3,User,42.38,100,11340,2024-07-25,2026-06-27,27,True,False,False,42.4
+MBX00635,Linda Thomas,linda.thomas634@contoso.com,9,Germany,E3,User,9.99,100,2969,2021-03-16,2026-07-09,15,True,True,False,10.0
+MBX00636,Margaret Martinez,margaret.martinez635@contoso.com,1,Germany,E3,User,21.85,100,4076,2023-04-27,2026-07-09,15,True,False,False,21.8
+MBX00637,Elizabeth Thompson,elizabeth.thompson636@contoso.com,7,United Kingdom,E1,User,9.33,50,1907,2024-02-24,2026-07-17,7,True,False,False,18.7
+MBX00638,Barbara Wilson,barbara.wilson637@contoso.com,3,Canada,Exchange Online Plan 1,User,15.0,50,2801,2024-04-06,2026-02-20,154,False,False,True,30.0
+MBX00639,Wei Singh,wei.singh638@contoso.com,9,Canada,E1,User,10.99,50,2273,2023-10-02,2026-07-24,0,True,False,False,22.0
+MBX00640,Olivia Murphy,olivia.murphy639@contoso.com,1,Australia,E1,User,12.59,50,2273,2020-11-18,2026-07-08,16,True,False,False,25.2
+MBX00641,Mark Gonzalez,mark.gonzalez640@contoso.com,9,France,E1,User,26.36,50,6605,2025-07-03,2026-07-19,5,True,False,False,52.7
+MBX00642,Liam Perez,liam.perez641@contoso.com,8,United Kingdom,Exchange Online Plan 1,User,34.7,50,8812,2023-04-10,2026-07-01,23,True,False,False,69.4
+MBX00643,Chen Cook,chen.cook642@contoso.com,1,Canada,E5,Equipment,33.01,100,8982,2021-06-22,2026-07-13,11,True,False,False,33.0
+MBX00644,Karen Robinson,karen.robinson643@contoso.com,1,Canada,E5,User,70.53,100,16496,2023-06-22,2026-05-11,74,True,False,True,70.5
+MBX00645,Priya Rodriguez,priya.rodriguez644@contoso.com,8,United Kingdom,Exchange Online Plan 1,User,6.98,50,1259,2022-12-15,2026-07-23,1,True,False,False,14.0
+MBX00646,Susan White,susan.white645@contoso.com,1,France,E1,User,16.01,50,4392,2024-02-26,2026-07-01,23,True,False,True,32.0
+MBX00647,Charles Harris,charles.harris646@contoso.com,5,United States,Exchange Online Plan 1,User,7.11,50,1333,2025-04-27,2026-07-13,11,True,False,True,14.2
+MBX00648,Nancy Clark,nancy.clark647@contoso.com,9,Singapore,E3,User,25.66,100,7730,2022-07-20,2026-07-17,7,True,False,True,25.7
+MBX00649,Noah Johnson,noah.johnson648@contoso.com,5,Canada,E5,User,5.44,100,996,2021-01-02,2026-06-29,25,True,False,False,5.4
+MBX00650,Hiroshi Lopez,hiroshi.lopez649@contoso.com,4,United States,E3,User,26.65,100,6776,2023-03-17,2026-07-24,0,True,True,False,26.6
+MBX00651,Karen Zhang,karen.zhang650@contoso.com,5,India,E3,User,14.04,100,4286,2023-09-10,2026-07-10,14,True,False,True,14.0
+MBX00652,Mark Martinez,mark.martinez651@contoso.com,1,United States,Exchange Online Plan 1,User,11.45,50,2978,2025-05-11,2026-07-20,4,True,False,True,22.9
+MBX00653,David Lopez,david.lopez652@contoso.com,9,Canada,E1,User,12.41,50,3290,2020-11-14,2026-06-19,35,True,False,False,24.8
+MBX00654,Fatima Gonzalez,fatima.gonzalez653@contoso.com,3,Canada,Exchange Online Plan 1,User,4.65,50,1280,2021-04-14,2026-07-24,0,True,False,True,9.3
+MBX00655,Matthew Davis,matthew.davis654@contoso.com,2,India,E3,User,5.0,100,985,2021-02-08,2025-07-24,365,False,True,False,5.0
+MBX00656,Nancy Miller,nancy.miller655@contoso.com,3,Australia,E5,User,14.21,100,3900,2024-02-04,2026-06-26,28,True,False,True,14.2
+MBX00657,Priya Wilson,priya.wilson656@contoso.com,9,United States,Exchange Online Plan 1,User,14.15,50,4290,2022-08-18,2026-07-11,13,True,False,False,28.3
+MBX00658,Betty Zhang,betty.zhang657@contoso.com,1,United States,E1,User,7.37,50,2331,2023-09-09,2026-06-25,29,True,False,False,14.7
+MBX00659,Robert Smith,robert.smith658@contoso.com,8,United Kingdom,Exchange Online Plan 1,User,9.91,50,2398,2024-10-11,2026-07-16,8,True,True,False,19.8
+MBX00660,Barbara Lopez,barbara.lopez659@contoso.com,7,United States,E5,User,16.94,100,3866,2024-12-08,2026-07-02,22,True,False,False,16.9
+MBX00661,Linda Williams,linda.williams660@contoso.com,8,United Kingdom,Business Basic,User,6.38,50,1821,2023-12-16,2026-07-22,2,True,False,True,12.8
+MBX00662,Sandra Thompson,sandra.thompson661@contoso.com,9,United States,E1,User,2.32,50,593,2023-01-09,2026-05-20,65,True,False,True,4.6
+MBX00663,Mary Hernandez,mary.hernandez662@contoso.com,8,United Kingdom,E3,User,31.11,100,6720,2025-05-25,2026-07-24,0,True,False,True,31.1
+MBX00664,David Patel,david.patel663@contoso.com,9,United Kingdom,E5,User,14.91,100,3043,2022-03-16,2026-06-28,26,True,False,True,14.9
+MBX00665,Lisa White,lisa.white664@contoso.com,1,Australia,E3,User,8.44,100,1720,2023-07-20,2026-01-04,201,False,False,False,8.4
+MBX00666,Margaret Patel,margaret.patel665@contoso.com,8,United States,E1,User,7.1,50,1734,2021-03-21,2026-07-02,22,True,False,True,14.2
+MBX00667,Daniel Sanchez,daniel.sanchez666@contoso.com,5,France,E3,User,6.33,100,1290,2024-07-14,2025-11-27,239,False,False,True,6.3
+MBX00668,Chen Moore,chen.moore667@contoso.com,5,United Kingdom,Business Standard,User,25.6,50,4678,2025-10-14,2026-06-22,32,True,False,True,51.2
+MBX00669,Liam Zhang,liam.zhang668@contoso.com,9,United Kingdom,E1,User,3.98,50,745,2024-05-08,2026-04-26,89,True,False,False,8.0
+MBX00670,Jennifer Martin,jennifer.martin669@contoso.com,9,Germany,Business Basic,User,15.99,50,4959,2020-09-17,2026-06-09,45,True,False,False,32.0
+MBX00671,Noah Kelly,noah.kelly670@contoso.com,7,United Kingdom,Exchange Online Plan 1,User,15.98,50,3039,2024-04-18,2026-07-08,16,True,True,False,32.0
+MBX00672,Anthony Cook,anthony.cook671@contoso.com,5,United States,E1,User,20.29,50,3860,2022-03-13,2026-07-05,19,True,False,False,40.6
+MBX00673,Betty White,betty.white672@contoso.com,5,Germany,E1,User,9.07,50,2205,2021-06-05,2026-05-28,57,True,False,False,18.1
+MBX00674,Patricia Clark,patricia.clark673@contoso.com,4,United States,E5,User,29.43,100,6307,2024-07-03,2026-07-24,0,True,False,False,29.4
+MBX00675,Anthony Hernandez,anthony.hernandez674@contoso.com,3,United Kingdom,E1,User,20.69,50,6512,2022-07-14,2026-07-22,2,True,False,False,41.4
+MBX00676,Sandra Khan,sandra.khan675@contoso.com,4,Germany,E5,User,8.84,100,2718,2024-12-11,2026-07-09,15,True,False,False,8.8
+MBX00677,Lisa Clark,lisa.clark676@contoso.com,1,United Kingdom,E5,User,6.83,100,1616,2024-01-28,2026-07-07,17,True,False,True,6.8
+MBX00678,Patricia Murphy,patricia.murphy677@contoso.com,1,Canada,E5,User,11.01,100,2673,2024-06-09,2026-07-03,21,True,False,False,11.0
+MBX00679,Daniel Hernandez,daniel.hernandez678@contoso.com,8,United States,E3,User,8.62,100,2004,2022-05-15,2026-07-07,17,True,False,True,8.6
+MBX00680,Olivia Patel,olivia.patel679@contoso.com,5,Singapore,E5,User,5.95,100,1102,2021-04-01,2026-05-09,76,True,False,True,6.0
+MBX00681,Donald Jackson,donald.jackson680@contoso.com,9,Canada,E5,User,12.81,100,2830,2024-09-05,2026-06-22,32,True,False,False,12.8
+MBX00682,Jennifer Davis,jennifer.davis681@contoso.com,6,Singapore,E3,User,9.96,100,1963,2024-06-19,2026-07-11,13,True,False,True,10.0
+MBX00683,Noah Miller,noah.miller682@contoso.com,1,Australia,E5,User,33.96,100,6599,2021-07-20,2026-06-25,29,True,False,False,34.0
+MBX00684,Noah Thompson,noah.thompson683@contoso.com,1,United States,Business Standard,User,8.61,50,2225,2023-07-10,2026-07-09,15,True,False,False,17.2
+MBX00685,Michael Gonzalez,michael.gonzalez684@contoso.com,2,Germany,E5,User,6.78,100,1314,2023-03-31,2026-07-05,19,True,False,False,6.8
+MBX00686,Fatima Jones,fatima.jones685@contoso.com,9,United States,E3,Equipment,12.22,100,2375,2022-03-09,2026-07-02,22,True,True,False,12.2
+MBX00687,Thomas Moore,thomas.moore686@contoso.com,2,Canada,E3,Room,14.59,100,3607,2025-04-24,2026-07-14,10,True,False,False,14.6
+MBX00688,Lisa Clark,lisa.clark687@contoso.com,5,India,E1,User,15.37,50,3718,2021-04-09,2026-06-26,28,True,True,False,30.7
+MBX00689,Sarah Gonzalez,sarah.gonzalez688@contoso.com,9,United States,E3,User,15.27,100,3042,2024-01-22,2026-07-04,20,True,True,True,15.3
+MBX00690,Wei Bell,wei.bell689@contoso.com,9,France,E1,User,12.52,50,2261,2022-06-12,2026-06-29,25,True,False,True,25.0
+MBX00691,Emma Patel,emma.patel690@contoso.com,2,United States,Exchange Online Plan 1,User,11.88,50,2459,2023-09-10,2026-07-02,22,True,False,False,23.8
+MBX00692,Wei Lee,wei.lee691@contoso.com,1,Germany,E3,User,18.43,100,3926,2021-12-04,2026-07-06,18,True,False,False,18.4
+MBX00693,Olivia Kelly,olivia.kelly692@contoso.com,1,India,Business Standard,User,5.51,50,1609,2022-09-14,2026-07-24,0,True,False,True,11.0
+MBX00694,Olivia Moore,olivia.moore693@contoso.com,1,United States,E1,User,6.82,50,2101,2025-02-11,2026-07-07,17,True,False,False,13.6
+MBX00695,Patricia Garcia,patricia.garcia694@contoso.com,2,India,E3,User,3.11,100,736,2025-01-13,2026-07-21,3,True,False,False,3.1
+MBX00696,William Johnson,william.johnson695@contoso.com,5,Canada,E3,User,5.59,100,1323,2021-03-29,2026-07-06,18,True,False,True,5.6
+MBX00697,Donald Kelly,donald.kelly696@contoso.com,9,United States,E3,User,23.98,100,6708,2023-03-18,2026-07-03,21,True,False,True,24.0
+MBX00698,Lisa Bell,lisa.bell697@contoso.com,5,Germany,Business Basic,User,17.91,50,4795,2024-07-20,2026-03-31,115,False,False,False,35.8
+MBX00699,Robert Robinson,robert.robinson698@contoso.com,6,United States,Exchange Online Plan 1,User,36.85,50,7582,2025-04-13,2026-07-15,9,True,False,True,73.7
+MBX00700,Patricia Jones,patricia.jones699@contoso.com,2,India,Business Standard,User,31.4,50,6125,2025-05-12,2026-07-23,1,True,False,True,62.8
+MBX00701,Daniel Lopez,daniel.lopez700@contoso.com,8,United States,E1,Shared,18.02,50,4347,2021-01-02,2026-07-04,20,True,True,False,36.0
+MBX00702,Anthony Johnson,anthony.johnson701@contoso.com,6,France,Business Basic,User,13.53,50,3505,2020-09-11,2026-05-13,72,True,False,False,27.1
+MBX00703,Michael Williams,michael.williams702@contoso.com,8,France,E1,User,12.39,50,2470,2023-11-27,2026-05-27,58,True,False,False,24.8
+MBX00704,Michael Martinez,michael.martinez703@contoso.com,9,United States,Business Standard,User,1.54,50,340,2024-12-16,2026-07-03,21,True,False,False,3.1
+MBX00705,Jennifer Thompson,jennifer.thompson704@contoso.com,3,United Kingdom,E3,Room,11.43,100,2546,2023-10-07,2026-07-01,23,True,False,False,11.4
+MBX00706,Matthew Williams,matthew.williams705@contoso.com,1,India,E3,Shared,7.81,100,1691,2025-04-26,2026-07-09,15,True,False,False,7.8
+MBX00707,James Cook,james.cook706@contoso.com,2,India,E1,User,5.8,50,1418,2023-01-17,2026-07-23,1,True,False,False,11.6
+MBX00708,Matthew Jackson,matthew.jackson707@contoso.com,5,United Kingdom,E1,User,16.12,50,4375,2022-08-16,2026-06-28,26,True,False,False,32.2
+MBX00709,Karen Hernandez,karen.hernandez708@contoso.com,9,United States,E3,User,10.45,100,2626,2020-08-24,2026-07-10,14,True,False,False,10.4
+MBX00710,Charles Lee,charles.lee709@contoso.com,4,United States,Business Standard,User,12.94,50,2694,2024-04-25,2026-02-24,150,False,False,False,25.9
+MBX00711,Margaret Patel,margaret.patel710@contoso.com,8,Singapore,Business Basic,User,5.11,50,993,2024-12-24,2026-05-14,71,True,False,False,10.2
+MBX00712,Daniel Gonzalez,daniel.gonzalez711@contoso.com,5,Germany,Exchange Online Plan 1,User,21.28,50,6278,2025-05-02,2026-07-14,10,True,False,True,42.6
+MBX00713,Sandra Johnson,sandra.johnson712@contoso.com,2,Australia,E1,User,8.57,50,2117,2023-12-29,2025-08-14,344,False,False,False,17.1
+MBX00714,Priya Williams,priya.williams713@contoso.com,3,Germany,E5,User,15.54,100,2932,2022-10-05,2026-07-24,0,True,False,False,15.5
+MBX00715,Liam Zhang,liam.zhang714@contoso.com,6,France,E3,User,9.14,100,1975,2025-09-14,2026-06-28,26,True,False,True,9.1
+MBX00716,Wei Jones,wei.jones715@contoso.com,6,United States,E3,User,1.23,100,359,2021-11-22,2026-05-16,69,True,True,True,1.2
+MBX00717,Daniel Sanchez,daniel.sanchez716@contoso.com,5,United States,E3,User,16.57,100,4726,2023-07-16,2026-07-08,16,True,True,False,16.6
+MBX00718,Karen Thomas,karen.thomas717@contoso.com,2,France,E3,User,10.96,100,3316,2021-09-14,2026-07-14,10,True,False,False,11.0
+MBX00719,Elizabeth Patel,elizabeth.patel718@contoso.com,7,France,E5,User,2.9,100,766,2023-07-09,2026-07-23,1,True,False,False,2.9
+MBX00720,Lisa Williams,lisa.williams719@contoso.com,1,United Kingdom,E1,User,4.58,50,1095,2025-03-19,2026-07-11,13,True,False,False,9.2
+MBX00721,Jennifer Singh,jennifer.singh720@contoso.com,9,United Kingdom,E3,User,21.69,100,5199,2025-12-13,2026-06-26,28,True,False,True,21.7
+MBX00722,Olivia Ramirez,olivia.ramirez721@contoso.com,2,Germany,E5,User,3.04,100,629,2023-01-02,2026-07-19,5,True,True,True,3.0
+MBX00723,Hiroshi Moore,hiroshi.moore722@contoso.com,1,United Kingdom,E1,User,8.4,50,2277,2023-02-06,2026-07-16,8,True,False,False,16.8
+MBX00724,John Rodriguez,john.rodriguez723@contoso.com,5,United States,Exchange Online Plan 1,User,38.89,50,10185,2021-08-04,2026-07-19,5,True,False,True,77.8
+MBX00725,Wei Cook,wei.cook724@contoso.com,5,France,E3,User,16.86,100,3400,2021-03-29,2026-07-21,3,True,False,False,16.9
+MBX00726,John Gonzalez,john.gonzalez725@contoso.com,5,United States,Business Standard,User,19.74,50,6000,2025-03-08,2026-07-18,6,True,False,True,39.5
+MBX00727,Donald Martin,donald.martin726@contoso.com,5,India,E5,User,9.79,100,2267,2024-05-03,2026-07-07,17,True,False,False,9.8
+MBX00728,Patricia Thomas,patricia.thomas727@contoso.com,10,United States,Business Basic,User,2.65,50,495,2024-12-04,2026-07-01,23,True,False,False,5.3
+MBX00729,Karen Martinez,karen.martinez728@contoso.com,5,United States,Business Basic,User,13.83,50,3124,2025-06-25,2026-07-04,20,True,False,True,27.7
+MBX00730,Mark Taylor,mark.taylor729@contoso.com,5,India,Business Standard,User,4.87,50,1469,2026-01-21,2026-04-29,86,True,False,False,9.7
+MBX00731,Sandra Miller,sandra.miller730@contoso.com,4,United Kingdom,E5,User,4.46,100,1375,2025-08-13,2026-07-03,21,True,False,False,4.5
+MBX00732,Thomas Smith,thomas.smith731@contoso.com,1,India,E3,Shared,12.73,100,3165,2023-03-08,2026-05-16,69,True,False,True,12.7
+MBX00733,Liam Lopez,liam.lopez732@contoso.com,6,United States,E1,Room,5.17,50,1622,2025-03-26,2026-06-27,27,True,False,False,10.3
+MBX00734,Priya Jones,priya.jones733@contoso.com,2,France,E5,Shared,11.71,100,3542,2024-12-30,2026-07-19,5,True,False,False,11.7
+MBX00735,David Taylor,david.taylor734@contoso.com,6,India,E1,User,7.01,50,2071,2025-06-03,2026-06-03,51,True,False,False,14.0
+MBX00736,Mark Zhang,mark.zhang735@contoso.com,1,Australia,E3,User,11.42,100,3430,2022-01-31,2026-07-21,3,True,False,False,11.4
+MBX00737,Sandra Miller,sandra.miller736@contoso.com,10,United States,E1,User,7.99,50,1865,2022-07-28,2026-07-02,22,True,False,False,16.0
+MBX00738,Susan Smith,susan.smith737@contoso.com,5,United Kingdom,E3,User,11.65,100,3330,2020-10-09,2026-07-22,2,True,False,True,11.6
+MBX00739,Sandra Jones,sandra.jones738@contoso.com,9,United Kingdom,E1,User,29.75,50,7759,2025-06-15,2026-07-18,6,True,False,True,59.5
+MBX00740,Anjali Lee,anjali.lee739@contoso.com,5,Germany,E5,User,20.04,100,5626,2024-12-02,2025-12-25,211,False,False,False,20.0
+MBX00741,Fatima Hernandez,fatima.hernandez740@contoso.com,1,United States,Business Basic,Shared,10.73,50,2198,2023-07-25,2026-07-04,20,True,True,False,21.5
+MBX00742,Priya Martin,priya.martin741@contoso.com,8,United States,Business Standard,User,26.75,50,7554,2022-07-01,2026-05-25,60,True,True,False,53.5
+MBX00743,Betty Johnson,betty.johnson742@contoso.com,6,United Kingdom,E3,User,15.69,100,4927,2025-05-09,2026-07-17,7,True,False,True,15.7
+MBX00744,William Wilson,william.wilson743@contoso.com,8,United States,E3,User,25.57,100,5686,2024-11-26,2026-06-03,51,True,False,False,25.6
+MBX00745,Wei Taylor,wei.taylor744@contoso.com,4,United Kingdom,E5,User,3.38,100,1075,2023-10-01,2025-10-11,286,False,False,False,3.4
+MBX00746,Joseph Moore,joseph.moore745@contoso.com,6,United States,E3,User,5.22,100,1216,2025-12-20,2026-06-26,28,True,False,True,5.2
+MBX00747,Nancy Thompson,nancy.thompson746@contoso.com,8,United States,E5,Equipment,13.71,100,2851,2023-11-23,2026-07-06,18,True,False,False,13.7
+MBX00748,Richard Patel,richard.patel747@contoso.com,6,India,E3,User,10.53,100,2060,2021-11-23,2026-07-09,15,True,False,False,10.5
+MBX00749,Richard Jackson,richard.jackson748@contoso.com,3,United Kingdom,Exchange Online Plan 1,Shared,11.67,50,3383,2023-03-04,2026-07-14,10,True,False,True,23.3
+MBX00750,Michael Yamamoto,michael.yamamoto749@contoso.com,6,United Kingdom,E1,User,17.46,50,4499,2023-09-06,2026-06-30,24,True,False,False,34.9
