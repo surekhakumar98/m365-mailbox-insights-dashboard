@@ -17,7 +17,7 @@ Organizations running Microsoft 365 at scale often lack visibility into Exchange
 ## 📊 Dashboard
 
 ![Dashboard Screenshot](screenshots/executive_dashboard.png)
-*(Add your exported screenshot to `/screenshots` — see the note in that folder)*
+
 
 The dashboard tracks:
 - Mailbox activity status (active vs. inactive)
@@ -49,7 +49,7 @@ The dashboard tracks:
 
 1. **Data generation** — `python/generate_data.py` creates a statistically realistic synthetic dataset: 750 mailboxes across departments/countries/license tiers, with 90 days of daily mail-flow records (~27K rows)
 2. **Analysis & validation** — `python/analysis.py` computes summary metrics and produces exploratory charts to validate the data before dashboard work began
-3. **Relational modeling** — `sql/` contains the schema (tables, primary/foreign keys, indexes) and 14 analytical queries, in both SQL Server and Oracle syntax
+3. **Relational modeling** — `sql/` contains the schema (tables, primary/foreign keys, indexes) and 14 analytical queries, in Oracle syntax
 4. **Dashboard** — built in Power BI Desktop from the Excel workbook, with relationships mirroring the SQL schema, 4 cross-filtering slicers, and drag-and-drop field aggregation throughout (see `docs/PowerBI_Build_Guide.md` for the full data model and page-by-page layout)
 
 ## 📈 Dataset Snapshot
